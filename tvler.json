@@ -1,5 +1,5 @@
 {
- "surum": 6,
+ "surum": 7,
  "guncelleme": "2026-10-31",
  "radyolar": [
   {
@@ -28,6 +28,15 @@
    "dil": "Türkçe",
    "frekans": "720p",
    "tur": "Eğlence"
+  },
+  {
+   "ad": "A Haber",
+   "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "1080p",
+   "tur": "Haber"
   },
   {
    "ad": "A Spor",
