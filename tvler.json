@@ -1,5 +1,5 @@
 {
- "surum": 2,
+ "surum": 4,
  "guncelleme": "2026-10-31",
  "radyolar": [
   {
@@ -670,15 +670,6 @@
    "frekans": "1080p"
   },
   {
-   "ad": "Absolute Reality by WE TV",
-   "url": "https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8",
-   "ulke": "ABD",
-   "kod": "us",
-   "frekans": "216p",
-   "dil": "İngilizce",
-   "tur": "Eğlence"
-  },
-  {
    "ad": "AccuWeather NOW",
    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
    "ulke": "ABD",
@@ -713,24 +704,6 @@
    "frekans": "720p",
    "dil": "İngilizce",
    "tur": "Genel"
-  },
-  {
-   "ad": "All Weddings WE tv",
-   "url": "https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8",
-   "ulke": "ABD",
-   "kod": "us",
-   "frekans": "720p",
-   "dil": "İngilizce",
-   "tur": "Dizi"
-  },
-  {
-   "ad": "American Heroes Channel",
-   "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
-   "ulke": "ABD",
-   "kod": "us",
-   "frekans": "1080p",
-   "dil": "İngilizce",
-   "tur": "Belgesel"
   },
   {
    "ad": "American Ninja Warrior",
@@ -821,23 +794,6 @@
    "frekans": "360p",
    "dil": "Almanca",
    "tur": "Yaşam"
-  },
-  {
-   "ad": "Bibel TV Impuls",
-   "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
-   "ulke": "Almanya",
-   "kod": "de",
-   "frekans": "1080p",
-   "dil": "Almanca"
-  },
-  {
-   "ad": "Bibel TV Musik",
-   "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
-   "ulke": "Almanya",
-   "kod": "de",
-   "frekans": "1080p",
-   "dil": "Almanca",
-   "tur": "Müzik"
   },
   {
    "ad": "Cira TV",
@@ -1113,15 +1069,6 @@
   {
    "ad": "Tropoja Televizion",
    "url": "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8",
-   "ulke": "Arnavutluk",
-   "kod": "al",
-   "frekans": "720p",
-   "dil": "Arnavutça",
-   "tur": "Genel"
-  },
-  {
-   "ad": "TV Johaniter",
-   "url": "https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8",
    "ulke": "Arnavutluk",
    "kod": "al",
    "frekans": "720p",
@@ -1539,15 +1486,6 @@
    "tur": "Müzik"
   },
   {
-   "ad": "Nelonen",
-   "url": "https://live-fi.tvkaista.net/nelonen/live.m3u8",
-   "ulke": "Finlandiya",
-   "kod": "fi",
-   "frekans": "720p",
-   "dil": "Fince",
-   "tur": "Genel"
-  },
-  {
    "ad": "Onni TV",
    "url": "https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8",
    "ulke": "Finlandiya",
@@ -1681,14 +1619,6 @@
    "frekans": "360p",
    "dil": "Korece",
    "tur": "Genel, Haber"
-  },
-  {
-   "ad": "TBS TV",
-   "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
-   "ulke": "Güney Kore",
-   "kod": "kr",
-   "frekans": "360p",
-   "dil": "Korece"
   },
   {
    "ad": "TV Chosun",
@@ -1863,14 +1793,6 @@
    "kod": "in",
    "frekans": "720p",
    "tur": "Kültür, Müzik"
-  },
-  {
-   "ad": "Animal Planet (India)",
-   "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
-   "ulke": "Hindistan",
-   "kod": "in",
-   "frekans": "720p",
-   "tur": "Belgesel"
   },
   {
    "ad": "Anjan TV",
@@ -2091,15 +2013,6 @@
    "tur": "Genel"
   },
   {
-   "ad": "Alghadeer TV",
-   "url": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8",
-   "ulke": "Irak",
-   "kod": "iq",
-   "frekans": "1080p",
-   "dil": "Arapça",
-   "tur": "Haber"
-  },
-  {
    "ad": "Avar TV",
    "url": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
    "ulke": "Irak",
@@ -2152,15 +2065,6 @@
    "tur": "Haber"
   },
   {
-   "ad": "MBC Iraq",
-   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8",
-   "ulke": "Irak",
-   "kod": "iq",
-   "frekans": "720p",
-   "dil": "Arapça",
-   "tur": "Genel"
-  },
-  {
    "ad": "Mixkurdy",
    "url": "https://avr.host247.net/live/Mix-kurdy/playlist.m3u8",
    "ulke": "Irak",
@@ -2168,15 +2072,6 @@
    "frekans": "1080p",
    "dil": "Arapça",
    "tur": "Aile"
-  },
-  {
-   "ad": "Payam TV",
-   "url": "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
-   "ulke": "Irak",
-   "kod": "iq",
-   "frekans": "576p",
-   "dil": "Arapça",
-   "tur": "Haber"
   },
   {
    "ad": "Rudaw TV",
@@ -2262,14 +2157,6 @@
    "tur": "Haber"
   },
   {
-   "ad": "CNN",
-   "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
-   "ulke": "Kanada",
-   "kod": "ca",
-   "frekans": "720p",
-   "tur": "Haber"
-  },
-  {
    "ad": "DesheBideshe TV",
    "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8",
    "ulke": "Kanada",
@@ -2307,14 +2194,6 @@
    "ulke": "Kanada",
    "kod": "ca",
    "frekans": "720p",
-   "tur": "Haber"
-  },
-  {
-   "ad": "HLN",
-   "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8",
-   "ulke": "Kanada",
-   "kod": "ca",
-   "frekans": "1080p",
    "tur": "Haber"
   },
   {
@@ -2421,32 +2300,6 @@
    "tur": "Genel"
   },
   {
-   "ad": "Animal Planet",
-   "url": "http://88.212.7.14/live/animal_hun/index.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "1080p",
-   "dil": "Macarca"
-  },
-  {
-   "ad": "Arena4",
-   "url": "http://88.212.7.14/live/arena4/index.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "1080p",
-   "dil": "Macarca",
-   "tur": "Spor"
-  },
-  {
-   "ad": "AXN Black (United States) Hungary",
-   "url": "http://141.94.193.53:80/axn_black/index.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "576p",
-   "dil": "Macarca",
-   "tur": "Sinema"
-  },
-  {
    "ad": "Balaton TV",
    "url": "https://stream.iptvservice.eu/hls/balatontv.m3u8",
    "ulke": "Macaristan",
@@ -2498,69 +2351,6 @@
    "frekans": "576p",
    "dil": "Macarca",
    "tur": "Eğlence"
-  },
-  {
-   "ad": "Film Cafe",
-   "url": "http://88.212.7.14/live/film_cafe/index.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "1080p",
-   "dil": "Macarca",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "Film+",
-   "url": "http://88.212.7.14/live/film_plus_hun_atk/index.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "1080p",
-   "dil": "Macarca",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "Film4",
-   "url": "http://88.212.7.14/live/film4_hun/index.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "576p",
-   "dil": "Macarca",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "FILMBOX+ Comedy Magyar",
-   "url": "http://88.212.15.50/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "576p",
-   "dil": "Macarca",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "FILMBOX+ Emotion Hungary",
-   "url": "http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "1080p",
-   "dil": "Macarca",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "FILMBOX+ Love & Crime Magyar",
-   "url": "http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "576p",
-   "dil": "Macarca",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "FILMBOX+ One Magyar",
-   "url": "http://88.212.7.14/live/filmbox_hungary/index.m3u8",
-   "ulke": "Macaristan",
-   "kod": "hu",
-   "frekans": "1080p",
-   "dil": "Macarca",
-   "tur": "Sinema"
   },
   {
    "ad": "Canal 10 Durango",
@@ -2633,15 +2423,6 @@
    "tur": "Kültür, Eğitim"
   },
   {
-   "ad": "Lifetime Latin America Mexico",
-   "url": "https://streaming.onnethn.com/LIFETIME/index.m3u8",
-   "ulke": "Meksika",
-   "kod": "mx",
-   "frekans": "480p",
-   "dil": "İspanyolca",
-   "tur": "Eğlence"
-  },
-  {
    "ad": "Lobo TV",
    "url": "https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8",
    "ulke": "Meksika",
@@ -2667,15 +2448,6 @@
    "frekans": "360p",
    "dil": "İspanyolca",
    "tur": "Sinema"
-  },
-  {
-   "ad": "Nick Jr. Latin America",
-   "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
-   "ulke": "Meksika",
-   "kod": "mx",
-   "frekans": "720p",
-   "dil": "İspanyolca",
-   "tur": "Çocuk"
   },
   {
    "ad": "Nueve TV",
@@ -2731,42 +2503,6 @@
    "tur": "Haber"
   },
   {
-   "ad": "MBC Masr",
-   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8",
-   "ulke": "Mısır",
-   "kod": "eg",
-   "frekans": "288p",
-   "dil": "Arapça",
-   "tur": "Genel"
-  },
-  {
-   "ad": "MBC Masr 2",
-   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8",
-   "ulke": "Mısır",
-   "kod": "eg",
-   "frekans": "720p",
-   "dil": "Arapça",
-   "tur": "Genel"
-  },
-  {
-   "ad": "MBC Masr Drama",
-   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8",
-   "ulke": "Mısır",
-   "kod": "eg",
-   "frekans": "720p",
-   "dil": "Arapça",
-   "tur": "Dizi"
-  },
-  {
-   "ad": "Mekameleen TV",
-   "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
-   "ulke": "Mısır",
-   "kod": "eg",
-   "frekans": "404p",
-   "dil": "Arapça",
-   "tur": "Haber"
-  },
-  {
    "ad": "Watan TV",
    "url": "https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8",
    "ulke": "Mısır",
@@ -2801,24 +2537,6 @@
    "frekans": "576p",
    "dil": "Polonyaca",
    "tur": "Müzik"
-  },
-  {
-   "ad": "AXN Black (United States) Poland",
-   "url": "http://185.227.34.179:8080/axn-black/index.m3u8",
-   "ulke": "Polonya",
-   "kod": "pl",
-   "frekans": "576p",
-   "dil": "Polonyaca",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "AXN White (United States) Poland",
-   "url": "http://185.227.34.179:8080/axn-white/index.m3u8",
-   "ulke": "Polonya",
-   "kod": "pl",
-   "frekans": "576p",
-   "dil": "Polonyaca",
-   "tur": "Eğlence"
   },
   {
    "ad": "Disco Polo Music",
@@ -2899,15 +2617,6 @@
    "tur": "Eğlence"
   },
   {
-   "ad": "Rakuten Viki Poland",
-   "url": "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8",
-   "ulke": "Polonya",
-   "kod": "pl",
-   "frekans": "360p",
-   "dil": "Polonyaca",
-   "tur": "Eğlence, Dizi"
-  },
-  {
    "ad": "Royalworld",
    "url": "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8",
    "ulke": "Polonya",
@@ -2918,14 +2627,6 @@
   {
    "ad": "TOP Barca",
    "url": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
-   "ulke": "Polonya",
-   "kod": "pl",
-   "frekans": "720p",
-   "dil": "Polonyaca"
-  },
-  {
-   "ad": "Top Movies Polska",
-   "url": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8",
    "ulke": "Polonya",
    "kod": "pl",
    "frekans": "720p",
@@ -3100,15 +2801,6 @@
    "tur": "Genel"
   },
   {
-   "ad": "Bollywood Classic Romania",
-   "url": "https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8",
-   "ulke": "Romanya",
-   "kod": "ro",
-   "frekans": "576p",
-   "dil": "Romence",
-   "tur": "Klasik, Sinema"
-  },
-  {
    "ad": "Boom TV",
    "url": "https://tvboom.ro/live-tv/live.m3u8",
    "ulke": "Romanya",
@@ -3124,15 +2816,6 @@
    "kod": "ro",
    "frekans": "540p",
    "dil": "Romence"
-  },
-  {
-   "ad": "Cinemaraton Plus",
-   "url": "https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8",
-   "ulke": "Romanya",
-   "kod": "ro",
-   "frekans": "720p",
-   "dil": "Romence",
-   "tur": "Sinema"
   },
   {
    "ad": "CineWow",
@@ -3151,15 +2834,6 @@
    "frekans": "720p",
    "dil": "Romence",
    "tur": "Genel"
-  },
-  {
-   "ad": "Comedy Play",
-   "url": "https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8",
-   "ulke": "Romanya",
-   "kod": "ro",
-   "frekans": "480p",
-   "dil": "Romence",
-   "tur": "Komedi"
   },
   {
    "ad": "Digi 24",
@@ -3277,15 +2951,6 @@
    "dil": "Rusça"
   },
   {
-   "ad": "Bollywood HD Russia",
-   "url": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
-   "ulke": "Rusya",
-   "kod": "ru",
-   "frekans": "576p",
-   "dil": "Rusça",
-   "tur": "Sinema"
-  },
-  {
    "ad": "BRIDGE Rock",
    "url": "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8",
    "ulke": "Rusya",
@@ -3387,15 +3052,6 @@
    "ulke": "Suudi Arabistan",
    "kod": "sa",
    "frekans": "1080p",
-   "dil": "Arapça",
-   "tur": "Müzik"
-  },
-  {
-   "ad": "MBC Mood",
-   "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8",
-   "ulke": "Suudi Arabistan",
-   "kod": "sa",
-   "frekans": "288p",
    "dil": "Arapça",
    "tur": "Müzik"
   },
@@ -3647,14 +3303,6 @@
    "tur": "Haber"
   },
   {
-   "ad": "Ecclesia TV (Greece)",
-   "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
-   "ulke": "Yunanistan",
-   "kod": "gr",
-   "frekans": "1080p",
-   "dil": "Yunanca"
-  },
-  {
    "ad": "Ellinikos FM",
    "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
    "ulke": "Yunanistan",
@@ -3744,32 +3392,6 @@
    "dil": "Çekçe"
   },
   {
-   "ad": "FILMBOX+ Comedy Czechia",
-   "url": "http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8",
-   "ulke": "Çekya",
-   "kod": "cz",
-   "frekans": "576p",
-   "dil": "Çekçe",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "FILMBOX+ Love & Crime",
-   "url": "http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8",
-   "ulke": "Çekya",
-   "kod": "cz",
-   "frekans": "720p",
-   "dil": "Çekçe",
-   "tur": "Sinema"
-  },
-  {
-   "ad": "Food Network",
-   "url": "http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8",
-   "ulke": "Çekya",
-   "kod": "cz",
-   "frekans": "1080p",
-   "dil": "Çekçe"
-  },
-  {
    "ad": "HAHA TV",
    "url": "https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8",
    "ulke": "Çekya",
@@ -3788,39 +3410,12 @@
    "tur": "Genel"
   },
   {
-   "ad": "Minimax CEE",
-   "url": "http://88.212.15.50/live/test_minimax/playlist.m3u8",
-   "ulke": "Çekya",
-   "kod": "cz",
-   "frekans": "576p",
-   "dil": "Çekçe",
-   "tur": "Çocuk"
-  },
-  {
    "ad": "Mnau TV",
    "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
    "ulke": "Çekya",
    "kod": "cz",
    "frekans": "1080p",
    "dil": "Çekçe"
-  },
-  {
-   "ad": "Nick Jr.",
-   "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
-   "ulke": "Çekya",
-   "kod": "cz",
-   "frekans": "576p",
-   "dil": "Çekçe",
-   "tur": "Çocuk"
-  },
-  {
-   "ad": "Nicktoons",
-   "url": "http://88.212.15.50/live/test_nicktoons/playlist.m3u8",
-   "ulke": "Çekya",
-   "kod": "cz",
-   "frekans": "576p",
-   "dil": "Çekçe",
-   "tur": "Çocuk"
   },
   {
    "ad": "Ocko",
@@ -4175,15 +3770,6 @@
    "tur": "Çocuk"
   },
   {
-   "ad": "Boing (Italy) HD",
-   "url": "https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8",
-   "ulke": "İtalya",
-   "kod": "it",
-   "frekans": "270p",
-   "dil": "İtalyanca",
-   "tur": "Çocuk"
-  },
-  {
    "ad": "Caccia e Pesca",
    "url": "http://102.129.186.182:81/cacciapesca/index.m3u8",
    "ulke": "İtalya",
@@ -4262,15 +3848,6 @@
    "frekans": "720p",
    "dil": "İtalyanca",
    "tur": "Komedi"
-  },
-  {
-   "ad": "Food Network (Italy)",
-   "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
-   "ulke": "İtalya",
-   "kod": "it",
-   "frekans": "360p",
-   "dil": "İtalyanca",
-   "tur": "Yemek"
   },
   {
    "ad": "Giallo",
