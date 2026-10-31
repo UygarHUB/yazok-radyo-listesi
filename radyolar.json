@@ -1,5 +1,5 @@
 {
- "surum": 6,
+ "surum": 7,
  "guncelleme": "2026-10-31",
  "kaynak": "Resmi siteler ve Radio Browser",
  "radyolar": [
@@ -3010,6 +3010,166 @@
    "dil": "Türkçe"
   },
   {
+   "ad": "Ribat FM",
+   "url": "http://yayin1.canliyayin.org:7010/;*.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Lalegül FM",
+   "url": "https://icecast.netmedya.net/lalegulfm",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Enderun FM",
+   "url": "http://yayin2.canliyayin.org:7052/;*.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Radyo Maranata",
+   "url": "http://medya.radyomaranata.com:8005/live",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Radyo Nida",
+   "url": "https://anadolu.liderhost.com.tr/8106/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Moral FM",
+   "url": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Konya İsra FM",
+   "url": "https://yayin2.canliyayin.org:8210/;stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Radyo EN",
+   "url": "https://yayin2.canliyayin.org:7222/;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Radyo Hidayet Çağı",
+   "url": "https://radio.mihr.com/radio/8000/radio.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "NUR Radyo",
+   "url": "https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Her An Kur'an",
+   "url": "https://radio.mihr.com/radio/8050/radio.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Mekke Fm",
+   "url": "https://radyodinle.cansuyufm.com/17175/stream;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Radyo İlahi",
+   "url": "https://anadolu.liderhost.com.tr:10994/;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Barış Radyo 104.8",
+   "url": "https://yayin2.canliyayin.org:9350/stream?/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Radyo Tulu",
+   "url": "http://yayin2.canliyayin.org:8248/;*.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "İhya Fm",
+   "url": "https://radyo.yayin.com.tr:2727/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Bizim İller Radyo",
+   "url": "http://yayin.yayindakiler.com:4078/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Karadut Fm",
+   "url": "https://yayin5.radyohizmeti.com/9982/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Miraç Fm",
+   "url": "https://anadolu.liderhost.com.tr:9416/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Radyo Nebi",
+   "url": "https://anadolu.liderhost.com.tr/9006/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "tur": "Dini"
+  },
+  {
    "ad": "Radio Paradise Main Mix (EU) 320k AAC",
    "url": "http://stream-uk1.radioparadise.com/aac-320",
    "ulke": "ABD",
@@ -4178,6 +4338,30 @@
    "kod": "iq"
   },
   {
+   "ad": "Al-bilad Radio/Yaqoubi",
+   "url": "https://streamer.radio.co/sb38bf6e66/listen",
+   "ulke": "Irak",
+   "kod": "iq",
+   "dil": "Arapça",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Darusalam Radio",
+   "url": "https://streams.radio.co/s0975ec186/listen",
+   "ulke": "Irak",
+   "kod": "iq",
+   "dil": "Arapça",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Alseraj Radio Islam",
+   "url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
+   "ulke": "Irak",
+   "kod": "iq",
+   "dil": "Arapça",
+   "tur": "Dini"
+  },
+  {
    "ad": "#joint radio Blues Rock",
    "url": "https://jointil.com/stream-blues",
    "ulke": "Israel",
@@ -4566,6 +4750,14 @@
    "dil": "Arapça"
   },
   {
+   "ad": "RadioSunna",
+   "url": "http://andromeda.shoutca.st:8189/stream",
+   "ulke": "Suudi Arabistan",
+   "kod": "sa",
+   "dil": "Arapça",
+   "tur": "Dini"
+  },
+  {
    "ad": "TDI Radio",
    "url": "http://streaming.tdiradio.com:8000/tdiradio",
    "ulke": "Sırbistan",
@@ -4741,6 +4933,14 @@
    "kod": "ir",
    "tur": "Klasik",
    "logo": "https://drive.google.com/file/d/14pqOm4XzVJvRZa9oV3Iq9GeTPlIVhxdV/view?usp=drivesdk"
+  },
+  {
+   "ad": "Radio Mojdeh",
+   "url": "https://ic2326.c1261.fastserv.com/rm128",
+   "ulke": "İran",
+   "kod": "ir",
+   "dil": "Farsça",
+   "tur": "Dini"
   },
   {
    "ad": "LOS 40 Principales España",
