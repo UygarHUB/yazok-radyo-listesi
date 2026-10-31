@@ -1,0 +1,227 @@
+{
+ "surum": 1,
+ "guncelleme": "2026-10-31",
+ "kaynak": "Radio Browser",
+ "radyolar": [
+  {
+   "ad": "Arabesk FM",
+   "url": "http://yayin.arabeskfm.biz:8042/"
+  },
+  {
+   "ad": "Virgin Radio Türkiye",
+   "url": "http://28933.live.streamtheworld.com:3690/VIRGIN_RADIO_SC"
+  },
+  {
+   "ad": "DAMAR TURK FM",
+   "url": "https://live.radyositesihazir.com:10997/"
+  },
+  {
+   "ad": "Radyo 7",
+   "url": "http://46.20.3.250/;stream"
+  },
+  {
+   "ad": "Türkülerle Türkiye",
+   "url": "http://37.247.98.8/stream/22/;"
+  },
+  {
+   "ad": "Radyo Şiran",
+   "url": "https://live.radyositesihazir.com/8078/stream"
+  },
+  {
+   "ad": "Metro FM",
+   "url": "http://25443.live.streamtheworld.com/METRO_FMAAC_SC"
+  },
+  {
+   "ad": "KRAL TÜRK FM",
+   "url": "https://live.radyositesihazir.com/8032/stream"
+  },
+  {
+   "ad": "NTV Radyo",
+   "url": "http://46.20.3.207/listen.pls"
+  },
+  {
+   "ad": "Ankara Havalari",
+   "url": "http://37.247.98.8/stream/30/;"
+  },
+  {
+   "ad": "Baba Radyo",
+   "url": "http://46.20.7.116/"
+  },
+  {
+   "ad": "ALTIN SARKILAR",
+   "url": "http://37.247.98.8/stream/25/;"
+  },
+  {
+   "ad": "Radyo Fenomen",
+   "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio"
+  },
+  {
+   "ad": "Süper FM",
+   "url": "http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC"
+  },
+  {
+   "ad": "dinamo.fm sleep",
+   "url": "http://channels.dinamo.fm/sleep-mp3"
+  },
+  {
+   "ad": "Radyo Seymen",
+   "url": "https://yayin.radyoseymen.com.tr:1070/stream"
+  },
+  {
+   "ad": "Super Fm",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC"
+  },
+  {
+   "ad": "90lar",
+   "url": "http://37.247.98.8/stream/166/"
+  },
+  {
+   "ad": "Radyo Voyage",
+   "url": "http://voyagewmp.radyotvonline.com/;stream.mp3"
+  },
+  {
+   "ad": "Pal station",
+   "url": "http://shoutcast.radyogrup.com:1020/"
+  },
+  {
+   "ad": "pop 90",
+   "url": "http://23623.live.streamtheworld.com/POP90AAC_SC"
+  },
+  {
+   "ad": "Turku Radyo",
+   "url": "http://radyo.turkuradyo.net:4591/turkuradyo"
+  },
+  {
+   "ad": "JOY TÜRK",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/"
+  },
+  {
+   "ad": "Slow Turk",
+   "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk"
+  },
+  {
+   "ad": "Joy Fm",
+   "url": "http://25703.live.streamtheworld.com/JOY_FMAAC_SC"
+  },
+  {
+   "ad": "dinamo.fm deep",
+   "url": "http://channels.dinamo.fm/deep-mp3"
+  },
+  {
+   "ad": "Radyo 45lik yeni",
+   "url": "https://stream.radyo45lik.com:4545/"
+  },
+  {
+   "ad": "Alem Fm",
+   "url": "https://turkmedya.radyotvonline.net/alemfmaac"
+  },
+  {
+   "ad": "SUPER FM 2",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/"
+  },
+  {
+   "ad": "Dost",
+   "url": "http://yayin1.yayindakiler.com:3156/"
+  },
+  {
+   "ad": "Kurd1 FM",
+   "url": "https://listen.radioking.com/radio/119251/stream/158701"
+  },
+  {
+   "ad": "Habertürk Radyo",
+   "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo"
+  },
+  {
+   "ad": "dinamo.fm caffe",
+   "url": "http://channels.dinamo.fm/caffe-mp3"
+  },
+  {
+   "ad": "dinamo.fm discotheque",
+   "url": "http://channels.dinamo.fm/discotheque-mp3"
+  },
+  {
+   "ad": "Radyo ODTU",
+   "url": "http://stream.radyoodtu.com.tr/;"
+  },
+  {
+   "ad": "TRT FM",
+   "url": "https://trt.radyotvonline.net/trtfm"
+  },
+  {
+   "ad": "Radio Ava Turkiye",
+   "url": "http://play.markaradyo.com:8002/stream"
+  },
+  {
+   "ad": "Gözyaşı FM",
+   "url": "http://yayin1.canliyayin.org:8700/;*.mp3"
+  },
+  {
+   "ad": "Park Fm",
+   "url": "http://yayin.netradyom.com:8050/PARKFM/"
+  },
+  {
+   "ad": "lokum fm",
+   "url": "http://37.247.98.9/stream/493/?/;stream.mp3"
+  },
+  {
+   "ad": "Radyo Ekin",
+   "url": "http://yayin.turkhosted.com:6006/"
+  },
+  {
+   "ad": "Radyo A (Radyo Anadolu Üniversitesi)",
+   "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3"
+  },
+  {
+   "ad": "Magic FM",
+   "url": "http://yayin1.yayindakiler.com:3032/"
+  },
+  {
+   "ad": "Halk Radyo",
+   "url": "https://anadolu.liderhost.com.tr:10876/;"
+  },
+  {
+   "ad": "dinamo.fm locodyno",
+   "url": "http://channels.dinamo.fm/locodyno-mp3"
+  },
+  {
+   "ad": "Havin FM",
+   "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3"
+  },
+  {
+   "ad": "Avrasya Türk Radyo",
+   "url": "https://sslyayin.netyayin.net:10909/"
+  },
+  {
+   "ad": "KEYF STATION",
+   "url": "http://yayin.radyomadyo.com:8002/stream"
+  },
+  {
+   "ad": "Pal Doğa",
+   "url": "http://shoutcast.radyogrup.com:1040/;*.mp3"
+  },
+  {
+   "ad": "Radio Antalya",
+   "url": "https://my.radiolize.com/radio/8000/radio.mp3"
+  },
+  {
+   "ad": "Radyo Fenomen Clubbin",
+   "url": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio"
+  },
+  {
+   "ad": "JOY TÜRK ROCK",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/"
+  },
+  {
+   "ad": "Erzincan Cem Radyo",
+   "url": "https://erzincan.80.yayin.com.tr/stream"
+  },
+  {
+   "ad": "Borusan Klasik",
+   "url": "http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC"
+  },
+  {
+   "ad": "Radio 44",
+   "url": "https://radyo44.80.yayin.com.tr/stream"
+  }
+ ]
+}
