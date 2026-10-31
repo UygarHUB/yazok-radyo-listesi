@@ -1,5 +1,5 @@
 {
- "surum": 3,
+ "surum": 4,
  "guncelleme": "2026-10-31",
  "kaynak": "Radio Browser",
  "radyolar": [
@@ -15,20 +15,23 @@
    "url": "http://28933.live.streamtheworld.com:3690/VIRGIN_RADIO_SC",
    "ulke": "Türkiye",
    "dil": "Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png"
   },
   {
    "ad": "DAMAR TURK FM",
    "url": "https://live.radyositesihazir.com:10997/",
    "ulke": "Türkiye",
    "dil": "Fransızca, Almanca, Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.damarturkfm.com/favicon.ico"
   },
   {
    "ad": "Radyo 7",
    "url": "http://46.20.3.250/;stream",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png"
   },
   {
    "ad": "Türkülerle Türkiye",
@@ -47,7 +50,8 @@
    "ad": "Metro FM",
    "url": "http://25443.live.streamtheworld.com/METRO_FMAAC_SC",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://metrofm.com.tr/favicon.ico"
   },
   {
    "ad": "KRAL TÜRK FM",
@@ -60,7 +64,8 @@
    "url": "http://46.20.3.207/listen.pls",
    "ulke": "Türkiye",
    "dil": "Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "http://www.ntvradyo.com.tr/favicon.ico"
   },
   {
    "ad": "Ankara Havalari",
@@ -99,7 +104,8 @@
    "url": "http://channels.dinamo.fm/sleep-mp3",
    "ulke": "Türkiye",
    "dil": "İngilizce, Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg"
   },
   {
    "ad": "Radyo Seymen",
@@ -111,13 +117,15 @@
    "ad": "Super Fm",
    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://superfm.com.tr/favicon.ico"
   },
   {
    "ad": "90lar",
    "url": "http://37.247.98.8/stream/166/",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://onlineradio.com.tr/images/50_radio.png"
   },
   {
    "ad": "Radyo Voyage",
@@ -129,7 +137,8 @@
    "ad": "Pal station",
    "url": "http://shoutcast.radyogrup.com:1020/",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://palstation106.com/img/logo/pal-station.ico"
   },
   {
    "ad": "pop 90",
@@ -154,7 +163,8 @@
    "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
    "ulke": "Türkiye",
    "dil": "Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75"
   },
   {
    "ad": "Joy Fm",
@@ -167,7 +177,8 @@
    "url": "http://channels.dinamo.fm/deep-mp3",
    "ulke": "Türkiye",
    "dil": "İngilizce, Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg"
   },
   {
    "ad": "Radyo 45lik yeni",
@@ -180,7 +191,8 @@
    "ad": "Alem Fm",
    "url": "https://turkmedya.radyotvonline.net/alemfmaac",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png"
   },
   {
    "ad": "SUPER FM 2",
@@ -192,7 +204,8 @@
    "ad": "Dost",
    "url": "http://yayin1.yayindakiler.com:3156/",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "http://dostfm.com/favicon.ico"
   },
   {
    "ad": "Kurd1 FM",
@@ -204,21 +217,24 @@
    "ad": "Habertürk Radyo",
    "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-RADYO_LOGO_Son-180x180.png"
   },
   {
    "ad": "dinamo.fm caffe",
    "url": "http://channels.dinamo.fm/caffe-mp3",
    "ulke": "Türkiye",
    "dil": "İngilizce, Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg"
   },
   {
    "ad": "dinamo.fm discotheque",
    "url": "http://channels.dinamo.fm/discotheque-mp3",
    "ulke": "Türkiye",
    "dil": "İngilizce, Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg"
   },
   {
    "ad": "Radyo ODTU",
@@ -230,7 +246,8 @@
    "ad": "TRT FM",
    "url": "https://trt.radyotvonline.net/trtfm",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png"
   },
   {
    "ad": "Radio Ava Turkiye",
@@ -289,7 +306,8 @@
    "url": "http://channels.dinamo.fm/locodyno-mp3",
    "ulke": "Türkiye",
    "dil": "İngilizce, Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg"
   },
   {
    "ad": "Havin FM",
@@ -321,14 +339,16 @@
    "url": "https://my.radiolize.com/radio/8000/radio.mp3",
    "ulke": "Türkiye",
    "dil": "Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://radioantalya.com/favicon.ico"
   },
   {
    "ad": "Radyo Fenomen Clubbin",
    "url": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio",
    "ulke": "Türkiye",
    "dil": "İngilizce, Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://cdn.radyofenomen.com/artwork/logo20.png"
   },
   {
    "ad": "JOY TÜRK ROCK",
@@ -353,63 +373,72 @@
    "url": "https://radyo44.80.yayin.com.tr/stream",
    "ulke": "Türkiye",
    "dil": "Türkçe",
-   "kod": "tr"
+   "kod": "tr",
+   "logo": "https://radyo44.com.tr/favicons/favicon-32x32.png"
   },
   {
    "ad": "Radio Paradise Main Mix (EU) 320k AAC",
    "url": "http://stream-uk1.radioparadise.com/aac-320",
    "ulke": "ABD",
    "dil": "İngilizce",
-   "kod": "us"
+   "kod": "us",
+   "logo": "https://radioparadise.com/apple-touch-icon.png"
   },
   {
    "ad": "WALM - Old Time Radio",
    "url": "https://icecast.walmradio.com:8443/otr",
    "ulke": "ABD",
    "dil": "İngilizce",
-   "kod": "us"
+   "kod": "us",
+   "logo": "https://icecast.walmradio.com:8443/otr.jpg"
   },
   {
    "ad": "WALM 2 HD",
    "url": "https://icecast.walmradio.com:8443/walm2",
    "ulke": "ABD",
    "dil": "İngilizce",
-   "kod": "us"
+   "kod": "us",
+   "logo": "https://icecast.walmradio.com:8443/walm.jpg"
   },
   {
    "ad": "101 SMOOTH JAZZ",
    "url": "http://jking.cdnstream1.com/b22139_128mp3",
    "ulke": "ABD",
    "dil": "İngilizce",
-   "kod": "us"
+   "kod": "us",
+   "logo": "http://101smoothjazz.com/favicon.ico"
   },
   {
    "ad": "181.FM - Old School HipHop/RnB",
    "url": "http://listen.181fm.com/181-oldschool_128k.mp3",
    "ulke": "ABD",
    "dil": "İngilizce",
-   "kod": "us"
+   "kod": "us",
+   "logo": "http://www.181.fm/favicon.ico"
   },
   {
    "ad": "MANGORADIO",
    "url": "https://mangoradio.stream.laut.fm/mangoradio",
    "ulke": "Almanya",
    "dil": "İngilizce, Almanca",
-   "kod": "de"
+   "kod": "de",
+   "logo": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp"
   },
   {
    "ad": "Rock Antenne - Heavy Metal",
    "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
    "ulke": "Almanya",
    "dil": "Almanca",
-   "kod": "de"
+   "kod": "de",
+   "logo": "http://www.rockantenne.de/logos/station-rock-antenne/favicon.ico"
   },
   {
    "ad": "1LIVE",
    "url": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
    "ulke": "Almanya",
    "dil": "Almanca",
-   "kod": "de"
+   "kod": "de",
+   "logo": "https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png"
   },
   {
    "ad": "80s80s",
@@ -430,7 +459,8 @@
    "url": "http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/",
    "ulke": "Almanya",
    "dil": "İngilizce",
-   "kod": "de"
+   "kod": "de",
+   "logo": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/10/90s90s_hiphoprap_600x600.png"
   },
   {
    "ad": "Sunshine Live - Die 90er",
@@ -444,21 +474,24 @@
    "url": "http://mp3channels.webradio.rockantenne.de/rockantenne",
    "ulke": "Almanya",
    "dil": "Almanca",
-   "kod": "de"
+   "kod": "de",
+   "logo": "http://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png"
   },
   {
    "ad": "WDR 5",
    "url": "http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
    "ulke": "Almanya",
    "dil": "Almanca",
-   "kod": "de"
+   "kod": "de",
+   "logo": "https://www1.wdr.de/resources-v5.134.1/img/favicon/apple-touch-icon.png"
   },
   {
    "ad": "TranceBase.FM - AAC HD 256k",
    "url": "http://listen.trancebase.fm/tunein-aac-hd-pls",
    "ulke": "Almanya",
    "dil": "Almanca",
-   "kod": "de"
+   "kod": "de",
+   "logo": "https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png"
   },
   {
    "ad": "Antenne Bayern",
@@ -472,14 +505,16 @@
    "url": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
    "ulke": "Almanya",
    "dil": "Almanca",
-   "kod": "de"
+   "kod": "de",
+   "logo": "https://swr3.de/assets/swr3/icons/apple-touch-icon.png"
   },
   {
    "ad": "ABC NewsRadio MP3",
    "url": "http://abc.streamguys1.com/live/newsradio/icecast.audio",
    "ulke": "Avustralya",
    "dil": "İngilizce",
-   "kod": "au"
+   "kod": "au",
+   "logo": "http://www.abc.net.au/favicon.ico"
   },
   {
    "ad": "Kiss FM 87.6, 87.8 & 88.0 Melbourne, VIC",
@@ -493,34 +528,39 @@
    "url": "http://abc.streamguys1.com/live/rnnsw/icecast.audio",
    "ulke": "Avustralya",
    "dil": "İngilizce",
-   "kod": "au"
+   "kod": "au",
+   "logo": "http://www.abc.net.au/core-assets/radionational/favicon-32x32.png"
   },
   {
    "ad": "The Prog Rock Machine",
    "url": "https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b",
    "ulke": "Avustralya",
-   "kod": "au"
+   "kod": "au",
+   "logo": "https://progrockmachine.com/favicon.ico"
   },
   {
    "ad": "Gold 104.3",
    "url": "https://ais-arn.streamguys1.com/au_004_icy",
    "ulke": "Avustralya",
    "dil": "İngilizce",
-   "kod": "au"
+   "kod": "au",
+   "logo": "https://www.gold1043.com.au/wp-content/themes/arn/assets/favicons/favicon_gold/favicon-32x32.png"
   },
   {
    "ad": "Fresh 92.7",
    "url": "https://live.fresh927.com.au/freshaac",
    "ulke": "Avustralya",
    "dil": "İngilizce",
-   "kod": "au"
+   "kod": "au",
+   "logo": "https://fresh927.com.au/graphics/favicon.png"
   },
   {
    "ad": "SBS Chill",
    "url": "http://sbs-ice.streamguys1.com/sbschill",
    "ulke": "Avustralya",
    "dil": "İngilizce",
-   "kod": "au"
+   "kod": "au",
+   "logo": "https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png"
   },
   {
    "ad": "DiscoRhythm",
@@ -534,83 +574,95 @@
    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
    "ulke": "Avustralya",
    "dil": "İngilizce",
-   "kod": "au"
+   "kod": "au",
+   "logo": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png"
   },
   {
    "ad": "Smooth FM 95.3",
    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac?src=neweb",
    "ulke": "Avustralya",
    "dil": "İngilizce",
-   "kod": "au"
+   "kod": "au",
+   "logo": "https://d2nzqyyfd6k6c7.cloudfront.net/favicon_2.ico"
   },
   {
    "ad": "Triple J",
    "url": "http://abc.streamguys1.com/live/triplejnsw/icecast.audio",
    "ulke": "Avustralya",
    "dil": "İngilizce",
-   "kod": "au"
+   "kod": "au",
+   "logo": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png"
   },
   {
    "ad": "Austrian Rock Radio",
    "url": "http://live.antenne.at/arr",
    "ulke": "Avusturya",
-   "kod": "at"
+   "kod": "at",
+   "logo": "https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png"
   },
   {
    "ad": "ORF Radio Wien",
    "url": "http://orf-live.ors-shoutcast.at/wie-q1a",
    "ulke": "Avusturya",
    "dil": "İngilizce, Almanca, Slovence",
-   "kod": "at"
+   "kod": "at",
+   "logo": "https://orf.at/favicon.ico"
   },
   {
    "ad": "KroneHit Digital",
    "url": "http://onair-ha1.krone.at/kronehit1058.mp3",
    "ulke": "Avusturya",
    "dil": "Almanca",
-   "kod": "at"
+   "kod": "at",
+   "logo": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png"
   },
   {
    "ad": "FM4 | ORF",
    "url": "https://orf-live.ors-shoutcast.at/fm4-q1a",
    "ulke": "Avusturya",
    "dil": "İngilizce, Almanca",
-   "kod": "at"
+   "kod": "at",
+   "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png"
   },
   {
    "ad": "KroneHit Radio",
    "url": "http://onair-ha1.krone.at/kronehit64.aac",
    "ulke": "Avusturya",
    "dil": "Almanca",
-   "kod": "at"
+   "kod": "at",
+   "logo": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png"
   },
   {
    "ad": "ORF Hitradio Ö3 | HQ",
    "url": "https://orf-live.ors-shoutcast.at/oe3-q2a",
    "ulke": "Avusturya",
    "dil": "Almanca",
-   "kod": "at"
+   "kod": "at",
+   "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png"
   },
   {
    "ad": "88.6 Hard Rock",
    "url": "http://radio886.at/streams/88.6_Hard_Rock/mp3",
    "ulke": "Avusturya",
    "dil": "Almanca",
-   "kod": "at"
+   "kod": "at",
+   "logo": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_HARDROCK.png"
   },
   {
    "ad": "FM4 | ORF | HQ",
    "url": "https://orf-live.ors-shoutcast.at/fm4-q2a",
    "ulke": "Avusturya",
    "dil": "İngilizce, Almanca",
-   "kod": "at"
+   "kod": "at",
+   "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png"
   },
   {
    "ad": "Radino - Mein Kinderradio Wien 103,2",
    "url": "http://stream01.zogl.net:8906/stream",
    "ulke": "Avusturya",
    "dil": "Almanca",
-   "kod": "at"
+   "kod": "at",
+   "logo": "https://www.meinkinderradio.at/wp-content/uploads/2021/07/favicon.png"
   },
   {
    "ad": "Antenne Steiermark",
@@ -650,14 +702,16 @@
    "ad": "Anti Radio",
    "url": "https://stream.antiradio.net/radio/8000/mp3",
    "ulke": "Azerbaycan",
-   "kod": "az"
+   "kod": "az",
+   "logo": "https://antiradio.net/favicon.ico"
   },
   {
    "ad": "Xezer FM",
    "url": "https://s40.myradiostream.com/:22546/listen.mp3?",
    "ulke": "Azerbaycan",
    "dil": "Azerice, Rusça",
-   "kod": "az"
+   "kod": "az",
+   "logo": "http://xezerfm.az/favicon.ico"
   },
   {
    "ad": "AVTO FM",
@@ -678,14 +732,16 @@
    "url": "https://radios.rtbf.be/laprem1ere-64.aac",
    "ulke": "Belçika",
    "dil": "Fransızca",
-   "kod": "be"
+   "kod": "be",
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
   },
   {
    "ad": "RTBF Classic 21",
    "url": "https://radios.rtbf.be/classic21-128.mp3",
    "ulke": "Belçika",
    "dil": "Fransızca",
-   "kod": "be"
+   "kod": "be",
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png"
   },
   {
    "ad": "VRT Radio 1",
@@ -699,21 +755,24 @@
    "url": "http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3",
    "ulke": "Belçika",
    "dil": "Fransızca",
-   "kod": "be"
+   "kod": "be",
+   "logo": "https://www.rtl.be/favicon.ico"
   },
   {
    "ad": "Tomorrowland One World Radio",
    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
    "ulke": "Belçika",
    "dil": "İngilizce",
-   "kod": "be"
+   "kod": "be",
+   "logo": "https://www.tomorrowland.com/home/apple-touch-icon.png"
   },
   {
    "ad": "Fun Radio",
    "url": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
    "ulke": "Belçika",
    "dil": "Fransızca",
-   "kod": "be"
+   "kod": "be",
+   "logo": "http://www.funradio.be/wp-content/themes/rise/assets/img/fav/apple-touch-icon.png"
   },
   {
    "ad": "Nostalgie 80's",
@@ -726,7 +785,8 @@
    "url": "http://icecast.vrtcdn.be/klara-high.mp3",
    "ulke": "Belçika",
    "dil": "Felemenkçe",
-   "kod": "be"
+   "kod": "be",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg"
   },
   {
    "ad": "MNM Hits",
@@ -747,7 +807,8 @@
    "url": "http://quincy.torontocast.com:1910/stream",
    "ulke": "Belçika",
    "dil": "İngilizce",
-   "kod": "be"
+   "kod": "be",
+   "logo": "https://instrumentalsforever.eu/favicon.ico"
   },
   {
    "ad": "NRJ België",
@@ -761,104 +822,119 @@
    "url": "http://ice-the.musicradio.com/ClassicFMMP3",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "http://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png"
   },
   {
    "ad": "LBC Radio",
    "url": "http://media-sov.musicradio.com/LBC973MP3Low",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png"
   },
   {
    "ad": "Radio Caroline",
    "url": "http://78.129.202.200:8040/;",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "http://www.radiocaroline.co.uk/favicon.ico"
   },
   {
    "ad": "Capital FM London",
    "url": "http://media-ice.musicradio.com/CapitalMP3",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "http://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg"
   },
   {
    "ad": "Heart 80s",
    "url": "https://media-ssl.musicradio.com/Heart80sMP3",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png"
   },
   {
    "ad": "Heart London 106.2 [MP3]",
    "url": "http://ice-sov.musicradio.com/HeartLondonMP3",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "https://cdn-profiles.tunein.com/s2846/images/logoq.jpg"
   },
   {
    "ad": "LBC UK",
    "url": "http://media-ice.musicradio.com/LBCUK",
    "ulke": "Birleşik Krallık",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "https://cdn-radiotime-logos.tunein.com/s220687q.png"
   },
   {
    "ad": "Smooth Radio",
    "url": "http://media-the.musicradio.com/SmoothEastMids",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png"
   },
   {
    "ad": "TMM 1",
    "url": "https://listen-msmn.sharp-stream.com/nme1.mp3",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "https://cdn-profiles.tunein.com/s159857/images/logod.png"
   },
   {
    "ad": "LBC London (National stream)",
    "url": "http://media-ice.musicradio.com/LBCUKMP3Low",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png"
   },
   {
    "ad": "Gold",
    "url": "https://media-ssl.musicradio.com/GoldMP3",
    "ulke": "Birleşik Krallık",
    "dil": "İngilizce",
-   "kod": "gb"
+   "kod": "gb",
+   "logo": "https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png"
   },
   {
    "ad": "Energy NRJ Bulgaria",
    "url": "http://play.global.audio/nrj128",
    "ulke": "Bulgaristan",
    "dil": "Bulgarca",
-   "kod": "bg"
+   "kod": "bg",
+   "logo": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png"
   },
   {
    "ad": "BG Radio",
    "url": "http://stream.radioreklama.bg/bgradio128",
    "ulke": "Bulgaristan",
    "dil": "Bulgarca",
-   "kod": "bg"
+   "kod": "bg",
+   "logo": "http://bgradio.net/theme_assets/bgradio/images/favicon.png"
   },
   {
    "ad": "Radio 1 радио 1 класическите хитове",
    "url": "http://stream.radioreklama.bg/radio164",
    "ulke": "Bulgaristan",
    "dil": "Bulgarca",
-   "kod": "bg"
+   "kod": "bg",
+   "logo": "http://www.radio1.bg/theme_assets/radio1/images/favicon.png"
   },
   {
    "ad": "BG Estrada",
    "url": "https://play.global.audio/bgestrada",
    "ulke": "Bulgaristan",
    "dil": "Bulgarca",
-   "kod": "bg"
+   "kod": "bg",
+   "logo": "https://www.radioplay.bg/assets/logos/bgestrada.png"
   },
   {
    "ad": "Nova News",
@@ -872,104 +948,119 @@
    "url": "http://193.108.24.21:8000/fresh",
    "ulke": "Bulgaristan",
    "dil": "Bulgarca",
-   "kod": "bg"
+   "kod": "bg",
+   "logo": "http://1.bp.blogspot.com/_RoR-1v43z1E/TToGkbRBWuI/AAAAAAAAAU0/0VrxqD0ipm8/s1600/radiofresh.jpg"
   },
   {
    "ad": "France Info",
    "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
    "ulke": "Fransa",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png"
   },
   {
    "ad": "RFI Afrique",
    "url": "http://live02.rfi.fr/rfiafrique-64.mp3",
    "ulke": "Fransa",
    "dil": "Fransızca",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "http://www.rfi.fr/apple-touch-icon.png"
   },
   {
    "ad": "RMC FR",
    "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
    "ulke": "Fransa",
    "dil": "Fransızca",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "https://i1.wp.com/www.mediasportif.fr/wp-content/uploads/2014/05/Radio-RMC.jpg"
   },
   {
    "ad": "Jazz Radio Blues",
    "url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
    "ulke": "Fransa",
    "dil": "Fransızca",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "https://www.jazzradio.fr/apple-touch-icon-120x120.png"
   },
   {
    "ad": "France Inter",
    "url": "http://direct.franceinter.fr/live/franceinter-hifi.aac",
    "ulke": "Fransa",
    "dil": "Fransızca",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "https://www.franceinter.fr/favicon.ico"
   },
   {
    "ad": "RFI Monde",
    "url": "http://live02.rfi.fr/rfimonde-64.mp3",
    "ulke": "Fransa",
    "dil": "Fransızca",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "http://www.rfi.fr/apple-touch-icon.png"
   },
   {
    "ad": "France Culture",
    "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
    "ulke": "Fransa",
    "dil": "Fransızca",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png"
   },
   {
    "ad": "Skyrock",
    "url": "http://icecast.skyrock.net/s/natio_mp3_128k",
    "ulke": "Fransa",
    "dil": "Fransızca",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw"
   },
   {
    "ad": "Jazz Radio",
    "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
    "ulke": "Fransa",
    "dil": "Fransızca",
-   "kod": "fr"
+   "kod": "fr",
+   "logo": "http://www.jazzradio.fr/apple-touch-icon-120x120.png"
   },
   {
    "ad": "Intense Radio - We love Dance 256K",
    "url": "https://secure.live-streams.nl/main",
    "ulke": "Hollanda",
    "dil": "Belarusça, Felemenkçe, İngilizce",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg"
   },
   {
    "ad": "NPO Radio 1",
    "url": "http://icecast.omroep.nl/radio1-bb-mp3",
    "ulke": "Hollanda",
    "dil": "Felemenkçe",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/640px-NPO_Radio_1_logo_2014.svg.png"
   },
   {
    "ad": "NPO Radio 2",
    "url": "http://icecast.omroep.nl/radio2-bb-mp3",
    "ulke": "Hollanda",
    "dil": "Felemenkçe",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NPO_Radio_2_logo.svg/640px-NPO_Radio_2_logo.svg.png"
   },
   {
    "ad": "Arrow Classic Rock",
    "url": "http://stream.gal.io/arrow",
    "ulke": "Hollanda",
    "dil": "Felemenkçe",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "https://www.arrow.nl/wp-content/themes/bones-master/library/images/apple-touch-icon.png"
   },
   {
    "ad": "Radio 10",
    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
    "ulke": "Hollanda",
    "dil": "Felemenkçe",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXQ3C4MdB2iKNRXVmQSy-fl3MBqAi-SX2JU3p-ZeLSiLCVbDw&s"
   },
   {
    "ad": "Hi On Line Lounge Radio",
@@ -982,14 +1073,16 @@
    "url": "https://icecast.omroep.nl/radio5-bb-mp3",
    "ulke": "Hollanda",
    "dil": "Felemenkçe",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "https://www.nporadio5.nl/apple-touch-icon.png"
   },
   {
    "ad": "Sky Radio 80's Hits",
    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
    "ulke": "Hollanda",
    "dil": "Felemenkçe",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "http://www.skyradio.nl/favicon.ico"
   },
   {
    "ad": "Concertzender Baroque",
@@ -1003,13 +1096,15 @@
    "url": "http://stream.slam.nl/slam",
    "ulke": "Hollanda",
    "dil": "Felemenkçe",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "https://www.slam.nl/favicon.ico"
   },
   {
    "ad": "Qmusic",
    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
    "ulke": "Hollanda",
-   "kod": "nl"
+   "kod": "nl",
+   "logo": "https://qmusic.nl/favicon.ico"
   },
   {
    "ad": "radio maria iraq",
@@ -1029,27 +1124,31 @@
    "url": "http://192.99.170.8:5550/stream",
    "ulke": "Irak",
    "dil": "Arapça",
-   "kod": "iq"
+   "kod": "iq",
+   "logo": "https://cdn.raddio.net/storage/photos/229793/dd4r5adb3503ef462370861608_100x100.webp"
   },
   {
    "ad": ". القارئ محمد أيوب",
    "url": "https://qurango.net/radio/mohammed_ayyub",
    "ulke": "Irak",
-   "kod": "iq"
+   "kod": "iq",
+   "logo": "https://mp3quran.net/img/logo2.png"
   },
   {
    "ad": "Al-bilad Radio/Yaqoubi",
    "url": "https://streamer.radio.co/sb38bf6e66/listen",
    "ulke": "Irak",
    "dil": "Arapça, Farsça",
-   "kod": "iq"
+   "kod": "iq",
+   "logo": "https://images.radio.co/station_logos/sb38bf6e66.20180614123831.jpg"
   },
   {
    "ad": "Darusalam Radio",
    "url": "https://streams.radio.co/s0975ec186/listen",
    "ulke": "Irak",
    "dil": "Arapça",
-   "kod": "iq"
+   "kod": "iq",
+   "logo": "https://images.radio.co/station_logos/s0975ec186.20220716110749.jpg"
   },
   {
    "ad": "Alseraj Radio Islam",
@@ -1082,7 +1181,8 @@
    "url": "http://usa17.fastcast4u.com:5508/stream",
    "ulke": "Kanada",
    "dil": "İngilizce",
-   "kod": "ca"
+   "kod": "ca",
+   "logo": "https://storage.googleapis.com/wzukusers/user-27172421/images/fav-6a63dee4b19e4b57a9038cc5f853f41a/apple-touch-icon-120x120.png?v=fav-6a63dee4b19e4b57a9038cc5f853f41a"
   },
   {
    "ad": "REGGAE CHILL CAFE",
@@ -1096,14 +1196,16 @@
    "url": "http://29324.live.streamtheworld.com/CFRBAMAAC_SC",
    "ulke": "Kanada",
    "dil": "İngilizce",
-   "kod": "ca"
+   "kod": "ca",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png"
   },
   {
    "ad": "# RdMix Classic Rock 70s 80s 90s",
    "url": "https://cast1.torontocast.com:4610/stream",
    "ulke": "Kanada",
    "dil": "İngilizce",
-   "kod": "ca"
+   "kod": "ca",
+   "logo": "https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg"
   },
   {
    "ad": "Labgate - Progressive Rock",
@@ -1129,7 +1231,8 @@
    "url": "http://29324.live.streamtheworld.com/TV_CTV_NEWSAAC_SC",
    "ulke": "Kanada",
    "dil": "İngilizce",
-   "kod": "ca"
+   "kod": "ca",
+   "logo": "http://www.ctvnews.ca/pf/resources/images/ctvnews/favicon.ico?d=111"
   },
   {
    "ad": "Nature Radio Rain",
@@ -1149,7 +1252,8 @@
    "ad": "Radio 90s Eurodance",
    "url": "https://listen1.myradio24.com/5967",
    "ulke": "Kazakistan",
-   "kod": "kz"
+   "kod": "kz",
+   "logo": "https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg"
   },
   {
    "ad": "Waar Radio",
@@ -1163,21 +1267,24 @@
    "url": "http://91.201.214.229:8000/zhulduz",
    "ulke": "Kazakistan",
    "dil": "Kazakça, Rusça",
-   "kod": "kz"
+   "kod": "kz",
+   "logo": "http://zhuldyzfm.kz/sites/default/files/favicon.png"
   },
   {
    "ad": "Qazaq radiosy",
    "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
    "ulke": "Kazakistan",
    "dil": "Kazakça",
-   "kod": "kz"
+   "kod": "kz",
+   "logo": "https://qazradio.fm/images/qazradio.png"
   },
   {
    "ad": "Shalqar",
    "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
    "ulke": "Kazakistan",
    "dil": "Kazakça",
-   "kod": "kz"
+   "kod": "kz",
+   "logo": "https://qazradio.fm/images/icon-114x114.png?9"
   },
   {
    "ad": "Avtoradio",
@@ -1191,14 +1298,16 @@
    "url": "http://178.88.167.62:8080/DALA_192",
    "ulke": "Kazakistan",
    "dil": "Rusça",
-   "kod": "kz"
+   "kod": "kz",
+   "logo": "https://static.tildacdn.com/tild6336-3866-4639-b664-353833373961/GIF.gif"
   },
   {
    "ad": "Aspan FM",
    "url": "http://77.240.38.228:8000/aspanfm",
    "ulke": "Kazakistan",
    "dil": "Kazakça",
-   "kod": "kz"
+   "kod": "kz",
+   "logo": "https://play-lh.googleusercontent.com/5RoB9Ug0phTuTpTqgExTIo5cdgPllBJhvpEmLfj_t2tZCkUJst9OzrwzhgsNGvv_VwQ=w240-h480-rw"
   },
   {
    "ad": "Radio Nostalgie (Kazakhstan)",
@@ -1219,14 +1328,16 @@
    "url": "http://r1.phileradio.com:8193/89FM",
    "ulke": "Kıbrıs",
    "dil": "Yunanca",
-   "kod": "cy"
+   "kod": "cy",
+   "logo": "http://kissfm.com.cy/wp-content/uploads/2016/02/fav.png"
   },
   {
    "ad": "Diesi Cyprus 101.1",
    "url": "http://r1.cloudskep.com/radio/diesi/icecast.audio",
    "ulke": "Kıbrıs",
    "dil": "Yunanca",
-   "kod": "cy"
+   "kod": "cy",
+   "logo": "https://tpc.googlesyndication.com/simgad/9820055778066934470"
   },
   {
    "ad": "Kanali6 (106.00 | 98.6 | 107.00 | 106.9) Lemesos Cyprus Alternative Stream",
@@ -1240,7 +1351,8 @@
    "url": "http://r1.cloudskep.com/cybcr/cybc3/icecast.audio",
    "ulke": "Kıbrıs",
    "dil": "Yunanca",
-   "kod": "cy"
+   "kod": "cy",
+   "logo": "https://control.divio.com/static/favicon.png"
   },
   {
    "ad": "Zucca Radio",
@@ -1253,7 +1365,8 @@
    "url": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio",
    "ulke": "Kıbrıs",
    "dil": "Yunanca",
-   "kod": "cy"
+   "kod": "cy",
+   "logo": "https://sport-fm.com.cy/wp-content/themes/dm-sportfm/images/favicons/apple-icon-114x114.png"
   },
   {
    "ad": "SUPER FM 104.8",
@@ -1267,13 +1380,15 @@
    "url": "http://r1.cloudskep.com/cybcr/cybc1/icecast.audio",
    "ulke": "Kıbrıs",
    "dil": "Yunanca",
-   "kod": "cy"
+   "kod": "cy",
+   "logo": "https://control.divio.com/static/favicon.png"
   },
   {
    "ad": "Rock FM Cyprus",
    "url": "http://live3.istoikona.net:8278/;",
    "ulke": "Kıbrıs",
-   "kod": "cy"
+   "kod": "cy",
+   "logo": "http://img1.wsimg.com/isteam/ip/23e625b3-9829-4f54-a786-73978949b161/rock%20fm%20logo%20clean%20b.png/:/rs=w:114,h:114,m"
   },
   {
    "ad": "塞浦路斯中文广播",
@@ -1301,21 +1416,24 @@
    "url": "http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5",
    "ulke": "Mısır",
    "dil": "Arapça",
-   "kod": "eg"
+   "kod": "eg",
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLDeG4UfceNKx39_KEr8RQhM3QX5kSdpK6zQ&usqp=CAU"
   },
   {
    "ad": "Radio 9090 90.9",
    "url": "http://9090streaming.mobtada.com/9090FMEGYPT",
    "ulke": "Mısır",
    "dil": "Arapça",
-   "kod": "eg"
+   "kod": "eg",
+   "logo": "http://www.9090.fm/favicon.ico"
   },
   {
    "ad": "إذاعة محمود خليل الحصري",
    "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
    "ulke": "Mısır",
    "dil": "Arapça",
-   "kod": "eg"
+   "kod": "eg",
+   "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
   },
   {
    "ad": "On sports FM",
@@ -1328,7 +1446,8 @@
    "url": "https://qurango.net/radio/mishary_alafasi",
    "ulke": "Mısır",
    "dil": "Arapça",
-   "kod": "eg"
+   "kod": "eg",
+   "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
   },
   {
    "ad": "Tes3enat FM",
@@ -1341,7 +1460,8 @@
    "url": "https://qurango.net/radio/mustafa_ismail",
    "ulke": "Mısır",
    "dil": "Arapça",
-   "kod": "eg"
+   "kod": "eg",
+   "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
   },
   {
    "ad": "Amr Diab Radio",
@@ -1354,14 +1474,16 @@
    "url": "https://qurango.net/radio/tarateel",
    "ulke": "Mısır",
    "dil": "Arapça",
-   "kod": "eg"
+   "kod": "eg",
+   "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
   },
   {
    "ad": "إذاعة ياسر الدوسري",
    "url": "https://qurango.net/radio/yasser_aldosari",
    "ulke": "Mısır",
    "dil": "Arapça",
-   "kod": "eg"
+   "kod": "eg",
+   "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
   },
   {
    "ad": "القران الكريم من القاهره",
@@ -1381,14 +1503,16 @@
    "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
    "ulke": "Rusya",
    "dil": "Rusça",
-   "kod": "ru"
+   "kod": "ru",
+   "logo": "http://liveam.tv/img/2494.jpg"
   },
   {
    "ad": "ROCK FM",
    "url": "http://nashe1.hostingradio.ru/rock-128.mp3",
    "ulke": "Rusya",
    "dil": "Rusça",
-   "kod": "ru"
+   "kod": "ru",
+   "logo": "https://lh3.googleusercontent.com/D3taObR7tfyhwDFY40VS8DIVri7iif5RuzI9C-mXxRwF41vGZ_dO_n6MWM57P-mZczFC=w300"
   },
   {
    "ad": "РАДИО ВАНЯ",
@@ -1423,7 +1547,8 @@
    "url": "http://dorognoe.hostingradio.ru:8000/radio",
    "ulke": "Rusya",
    "dil": "Rusça",
-   "kod": "ru"
+   "kod": "ru",
+   "logo": "https://dorognoe.ru/assets/default/i/fav_114x114.png"
   },
   {
    "ad": "Радио Русские Песни",
@@ -1437,7 +1562,8 @@
    "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
    "ulke": "Rusya",
    "dil": "Rusça",
-   "kod": "ru"
+   "kod": "ru",
+   "logo": "https://dfm.ru/uploads/favicon.ico"
   },
   {
    "ad": "Шансон Радио",
@@ -1451,7 +1577,8 @@
    "url": "http://dorognoe.hostingradio.ru:8000/dorognoe",
    "ulke": "Rusya",
    "dil": "Rusça",
-   "kod": "ru"
+   "kod": "ru",
+   "logo": "https://dorognoe.ru/assets/default/i/fav_114x114.png"
   },
   {
    "ad": "Вести FM",
@@ -1465,21 +1592,24 @@
    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
    "ulke": "Suudi Arabistan",
    "dil": "Arapça, İngilizce",
-   "kod": "sa"
+   "kod": "sa",
+   "logo": "https://www.bbc.com/arabic/bbc_arabic_radio/liveradio/favicon"
   },
   {
    "ad": "إذاعة السنة",
    "url": "http://andromeda.shoutca.st:8189/live",
    "ulke": "Suudi Arabistan",
    "dil": "Arapça",
-   "kod": "sa"
+   "kod": "sa",
+   "logo": "http://www.radiosunna.com/favicon.ico"
   },
   {
    "ad": "Mp3Quran Main",
    "url": "https://qurango.net/radio/mix",
    "ulke": "Suudi Arabistan",
    "dil": "Arapça",
-   "kod": "sa"
+   "kod": "sa",
+   "logo": "https://www.mp3quran.net/favicon.ico"
   },
   {
    "ad": "AlifAlif FM",
@@ -1493,7 +1623,8 @@
    "url": "http://andromeda.shoutca.st:8189/stream",
    "ulke": "Suudi Arabistan",
    "dil": "Arapça",
-   "kod": "sa"
+   "kod": "sa",
+   "logo": "http://www.radiosunna.com/favicon.ico"
   },
   {
    "ad": "القارئ علي الحذيفي رواية قالون",
@@ -1518,7 +1649,8 @@
    "url": "http://n01.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjrUiYUAAxwNU2wDdcOap9w",
    "ulke": "Suudi Arabistan",
    "dil": "Arapça",
-   "kod": "sa"
+   "kod": "sa",
+   "logo": "https://aloula.faulio.com/storage/mediagallery/c9/19/small_144a972e52acb9b4a3a3151fb0b7aa84509d14b5.png"
   },
   {
    "ad": "Fred Film Radio(لغة عربية)",
@@ -1532,14 +1664,16 @@
    "url": "https://edge.mixlr.com/channel/rwumx",
    "ulke": "Suudi Arabistan",
    "dil": "Arapça",
-   "kod": "sa"
+   "kod": "sa",
+   "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l7-P-EYqU6nvNkyJreIBeeU5YrB2Yl7NlLZH7Q%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1&ipt=be99841f3a5400a88c7503f144430b73989924c3b2990e794b76c06b1cc36491"
   },
   {
    "ad": "Blues Radio",
    "url": "http://cast3.radiohost.ovh:8352/",
    "ulke": "Yunanistan",
    "dil": "İngilizce",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "https://i0.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2c180&#038;ssl=1"
   },
   {
    "ad": "KISS FM 100.6",
@@ -1553,28 +1687,32 @@
    "url": "http://netradio.live24.gr/realfm",
    "ulke": "Yunanistan",
    "dil": "Yunanca",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "https://www.real.gr/wp-content/uploads/2025/02/realgr-icon-150x150.png"
   },
   {
    "ad": "Trance Athena",
    "url": "http://cast.streams.ovh:8008/stream",
    "ulke": "Yunanistan",
    "dil": "İngilizce",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "https://static.wixstatic.com/media/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg"
   },
   {
    "ad": "Sport FM 94.6",
    "url": "http://netradio.live24.gr/sportfm7712",
    "ulke": "Yunanistan",
    "dil": "Yunanca",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "http://www.sport-fm.gr/favicon.ico"
   },
   {
    "ad": "Kiss 92.9",
    "url": "http://netradio.live24.gr/kissfmathens",
    "ulke": "Yunanistan",
    "dil": "Yunanca",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "https://www.kiss929.gr/sites/default/files/kiss.ico"
   },
   {
    "ad": "Skai 100.3",
@@ -1588,7 +1726,8 @@
    "url": "https://radiostreaming.ert.gr/ert-zeppelin",
    "ulke": "Yunanistan",
    "dil": "Yunanca",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-180x180.png"
   },
   {
    "ad": "Sfera 102.2",
@@ -1602,34 +1741,39 @@
    "url": "http://netradio.live24.gr/athinaradio",
    "ulke": "Yunanistan",
    "dil": "Yunanca",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "http://www.parapolitikaradio.gr/favicon.ico"
   },
   {
    "ad": "Ellinikos 93.2",
    "url": "http://netradio.live24.gr/orange9320",
    "ulke": "Yunanistan",
    "dil": "Yunanca",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "http://www.ellinikos932.fm/favicon.ico"
   },
   {
    "ad": "Psyndora Psytrance",
    "url": "http://cast.magicstreams.gr:9111/stream",
    "ulke": "Yunanistan",
    "dil": "İngilizce",
-   "kod": "gr"
+   "kod": "gr",
+   "logo": "https://www.psyndora.com/images/favicon-144x144.png"
   },
   {
    "ad": "ایران‎  Radio Liberty (Iran) (official stream)",
    "url": "https://stream.radiojar.com/cp13r2cpn3quv",
    "ulke": "İran",
    "dil": "Farsça",
-   "kod": "ir"
+   "kod": "ir",
+   "logo": "https://www.radiofarda.com/content/responsive/rfe/img/webapp/ico-128x128.png"
   },
   {
    "ad": "parsa",
    "url": "http://parsa.icdndhcp.com:18000/stream",
    "ulke": "İran",
-   "kod": "ir"
+   "kod": "ir",
+   "logo": "https://lh5.googleusercontent.com/proxy/25PMsUBa3Z6So8cdvAyZT7_93NyV26cJNuTTDY4xk6aJU1lcKPByf2C7o2HbrGrv-QxPvbI3dio2D39zYlgi1v6nLg"
   },
   {
    "ad": "Faz",
@@ -1649,7 +1793,8 @@
    "url": "https://navairan.com/;stream.nsv",
    "ulke": "İran",
    "dil": "Farsça",
-   "kod": "ir"
+   "kod": "ir",
+   "logo": "https://www.navahang.com/apple-touch-icon.png"
   },
   {
    "ad": "Radio Sarcheshme",
@@ -1669,21 +1814,24 @@
    "url": "http://ic2326.c1261.fast-serv.com/rm128",
    "ulke": "İran",
    "dil": "Farsça",
-   "kod": "ir"
+   "kod": "ir",
+   "logo": "http://www.radiomojdeh.com/favicon.ico"
   },
   {
    "ad": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
    "url": "https://ic2326.c1261.fastserv.com/rm128",
    "ulke": "İran",
    "dil": "Faroece, Farsça",
-   "kod": "ir"
+   "kod": "ir",
+   "logo": "https://radiomojdeh.com/favicon.ico"
   },
   {
    "ad": "Cadena 100",
    "url": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
    "ulke": "İspanya",
    "dil": "İspanyolca",
-   "kod": "es"
+   "kod": "es",
+   "logo": "https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png"
   },
   {
    "ad": "Ibiza Global Radio",
@@ -1697,21 +1845,24 @@
    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
    "ulke": "İspanya",
    "dil": "İspanyolca",
-   "kod": "es"
+   "kod": "es",
+   "logo": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png"
   },
   {
    "ad": "Chocolate FM",
    "url": "http://streaming5.elitecomunicacion.es:8082/live.mp3",
    "ulke": "İspanya",
    "dil": "İspanyolca",
-   "kod": "es"
+   "kod": "es",
+   "logo": "https://www.chocolatefm.com/__ovh/common/img/favicon.ico"
   },
   {
    "ad": "Cadena SER España",
    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
    "ulke": "İspanya",
    "dil": "İspanyolca",
-   "kod": "es"
+   "kod": "es",
+   "logo": "https://cadenaser00.epimg.net/favicon.png"
   },
   {
    "ad": "1000 HITS 80s",
@@ -1725,7 +1876,8 @@
    "url": "http://flucast06-o-cloud.flumotion.com/cope/rockfm-low.mp3",
    "ulke": "İspanya",
    "dil": "İspanyolca",
-   "kod": "es"
+   "kod": "es",
+   "logo": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png"
   },
   {
    "ad": "_80 EXITOS",
@@ -1739,14 +1891,16 @@
    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
    "ulke": "İspanya",
    "dil": "İspanyolca",
-   "kod": "es"
+   "kod": "es",
+   "logo": "https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png"
   },
   {
    "ad": "Los 40 Dance",
    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC",
    "ulke": "İspanya",
    "dil": "İspanyolca",
-   "kod": "es"
+   "kod": "es",
+   "logo": "https://recursosweb.prisaradio.com/fotos/original/010002753887.png"
   },
   {
    "ad": "esRadio",
@@ -1767,14 +1921,16 @@
    "url": "http://stream.dbmedia.se/crr96",
    "ulke": "İsveç",
    "dil": "İsveççe",
-   "kod": "se"
+   "kod": "se",
+   "logo": "http://www.countryrocksradio.com/images/CRR_web.png"
   },
   {
    "ad": "Pirate Rock  Västkustens bästa rock",
    "url": "http://stream.piraterock.se:8101/webradio",
    "ulke": "İsveç",
    "dil": "İsveççe",
-   "kod": "se"
+   "kod": "se",
+   "logo": "https://piraterock.se/favicon.ico"
   },
   {
    "ad": "Retro FM Skåne",
@@ -1788,7 +1944,8 @@
    "url": "http://stream.dbmedia.se/gkhbg96",
    "ulke": "İsveç",
    "dil": "İsveççe",
-   "kod": "se"
+   "kod": "se",
+   "logo": "https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif"
   },
   {
    "ad": "Radio Swiss Jazz",
@@ -1878,7 +2035,8 @@
    "url": "http://icestreaming.rai.it/1.mp3",
    "ulke": "İtalya",
    "dil": "İtalyanca",
-   "kod": "it"
+   "kod": "it",
+   "logo": "https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg"
   },
   {
    "ad": "Virgin Radio Classic Rock",
@@ -1892,14 +2050,16 @@
    "url": "http://shoutcast2.radio24.it:8000/;",
    "ulke": "İtalya",
    "dil": "İtalyanca",
-   "kod": "it"
+   "kod": "it",
+   "logo": "https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png"
   },
   {
    "ad": "Radio 105 Network",
    "url": "http://icecast.unitedradio.it/Radio105.mp3",
    "ulke": "İtalya",
    "dil": "İtalyanca",
-   "kod": "it"
+   "kod": "it",
+   "logo": "https://upload.wikimedia.org/wikipedia/it/0/01/105.png"
   },
   {
    "ad": "Rai Radio 2",
@@ -1934,7 +2094,8 @@
    "url": "http://icecast.unitedradio.it/Virgin.mp3",
    "ulke": "İtalya",
    "dil": "İtalyanca",
-   "kod": "it"
+   "kod": "it",
+   "logo": "http://www.virginradio.it/favicon_2.ico?v=1722509813651"
   },
   {
    "ad": "Radio 105 - Dance 90",
@@ -1948,7 +2109,8 @@
    "url": "http://str01.fluidstream.net:7020/;stream.mp3",
    "ulke": "İtalya",
    "dil": "İtalyanca",
-   "kod": "it"
+   "kod": "it",
+   "logo": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg"
   }
  ]
 }
