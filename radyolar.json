@@ -1,5 +1,5 @@
 {
- "surum": 5,
+ "surum": 6,
  "guncelleme": "2026-10-31",
  "kaynak": "Resmi siteler ve Radio Browser",
  "radyolar": [
@@ -378,7 +378,8 @@
    "kod": "tr",
    "dil": "Türkçe",
    "tur": "Pop",
-   "logo": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png"
+   "logo": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
+   "frekans": "94.8 FM (Ankara)"
   },
   {
    "ad": "Radyo 7",
@@ -446,7 +447,8 @@
    "ad": "Radyo ODTU",
    "url": "http://stream.radyoodtu.com.tr/;",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "frekans": "103.1 FM (Ankara)"
   },
   {
    "ad": "Radio Ava Turkiye",
@@ -615,7 +617,8 @@
    "ad": "meteorolojinin sesi",
    "url": "http://radyomgm.canliyayinda.com/;stream.mp3",
    "ulke": "Türkiye",
-   "kod": "tr"
+   "kod": "tr",
+   "frekans": "92.4 FM (Ankara)"
   },
   {
    "ad": "BRTK",
@@ -896,7 +899,8 @@
    "kod": "tr",
    "dil": "Türkçe",
    "tur": "Pop",
-   "logo": "https://www.canliradyodinle.fm/wp-content/uploads/gol-radyo.jpg"
+   "logo": "https://www.canliradyodinle.fm/wp-content/uploads/gol-radyo.jpg",
+   "frekans": "102.6 FM (Ankara)"
   },
   {
    "ad": "Tarsus FM",
@@ -1161,7 +1165,8 @@
    "ulke": "Türkiye",
    "kod": "tr",
    "tur": "Pop",
-   "logo": "https://superfm.com.tr/favicon.ico"
+   "logo": "https://superfm.com.tr/favicon.ico",
+   "frekans": "90.8 FM (Ankara)"
   },
   {
    "ad": "Mix A Mix FM",
@@ -1648,6 +1653,1325 @@
    "dil": "Türkçe",
    "tur": "Pop",
    "logo": "https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu.png"
+  },
+  {
+   "ad": "DAMAR TURK FM",
+   "url": "https://live.radyositesihazir.com:10997/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://www.damarturkfm.com/favicon.ico"
+  },
+  {
+   "ad": "Türkülerle Türkiye",
+   "url": "http://37.247.98.8/stream/22/;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo Şiran",
+   "url": "https://live.radyositesihazir.com/8078/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "KRAL TÜRK FM",
+   "url": "https://live.radyositesihazir.com/8032/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "NTV Radyo",
+   "url": "http://46.20.3.207/listen.pls",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "http://www.ntvradyo.com.tr/favicon.ico",
+   "frekans": "104.7 FM (Ankara)"
+  },
+  {
+   "ad": "Ankara Havalari",
+   "url": "http://37.247.98.8/stream/30/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Baba Radyo",
+   "url": "http://46.20.7.116/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "ALTIN SARKILAR",
+   "url": "http://37.247.98.8/stream/25/;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "90lar",
+   "url": "http://37.247.98.8/stream/166/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://onlineradio.com.tr/images/50_radio.png"
+  },
+  {
+   "ad": "Radyo Voyage",
+   "url": "http://voyagewmp.radyotvonline.com/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Pal station",
+   "url": "http://shoutcast.radyogrup.com:1020/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://palstation106.com/img/logo/pal-station.ico",
+   "frekans": "99.3 FM (Ankara)"
+  },
+  {
+   "ad": "pop 90",
+   "url": "http://23623.live.streamtheworld.com/POP90AAC_SC",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Turku Radyo",
+   "url": "http://radyo.turkuradyo.net:4591/turkuradyo",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Slow Turk",
+   "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://www.slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
+   "frekans": "95.3 FM (Ankara)"
+  },
+  {
+   "ad": "SUPER FM 2",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Dost",
+   "url": "http://yayin1.yayindakiler.com:3156/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "http://dostfm.com/favicon.ico",
+   "frekans": "89.2 FM (Ankara)"
+  },
+  {
+   "ad": "Park Fm",
+   "url": "http://yayin.netradyom.com:8050/PARKFM/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "frekans": "96.8 FM (Ankara)"
+  },
+  {
+   "ad": "lokum fm",
+   "url": "http://37.247.98.9/stream/493/?/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Magic FM",
+   "url": "http://yayin1.yayindakiler.com:3032/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Halk Radyo",
+   "url": "https://anadolu.liderhost.com.tr:10876/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Havin FM",
+   "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Avrasya Türk Radyo",
+   "url": "https://sslyayin.netyayin.net:10909/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "frekans": "107.1 FM (Ankara)"
+  },
+  {
+   "ad": "Pal Doğa",
+   "url": "http://shoutcast.radyogrup.com:1040/;*.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "frekans": "100.9 FM (Ankara)"
+  },
+  {
+   "ad": "Borusan Klasik",
+   "url": "http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO BLACK LOVE",
+   "url": "https://anadolu.liderhost.com.tr:10964/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radyo Sputnik",
+   "url": "https://icecast-rian.cdnvideo.ru/voicestm",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://cdn.img.anlatilaninotesi.com.tr/i/favicon/favicon-192x192.png",
+   "frekans": "96.2 FM (Ankara)"
+  },
+  {
+   "ad": "Max FM",
+   "url": "http://live2.radyotvonline.com:8025/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://maxfm.com.tr/favicon.ico",
+   "frekans": "95.8 FM (Ankara)"
+  },
+  {
+   "ad": "Can Radyo",
+   "url": "http://yayin1.yayindakiler.com:3124/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "HAYATMİX",
+   "url": "https://hayatmix.yayin.com.tr/mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Pazarcık",
+   "url": "http://yayin.pazarcikfm.com:9090/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radyo Alaturka",
+   "url": "https://yayin.jumboserver.net:9100/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://radyoalaturka.com.tr/site/assets/img/alaturkaLogo.png"
+  },
+  {
+   "ad": "retro turk",
+   "url": "http://29339.live.streamtheworld.com/RETROTURKAAC_SC",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo Hayat",
+   "url": "http://live4.radyotvonline.com:9450/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "KUZEY FM",
+   "url": "http://yayin.yayindakiler.com:3028/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "TGRT FM",
+   "url": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "frekans": "104.4 FM (Ankara)"
+  },
+  {
+   "ad": "Radyo Eksen 96.2",
+   "url": "http://eksenwmp.radyotvonline.com/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Med Radyo",
+   "url": "http://medradyo.kesintisizyayin.com:8062/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radio Mydonose",
+   "url": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "MaxFM",
+   "url": "http://live.radyotvonline.com:8090/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Axa Rojava",
+   "url": "https://stream.zeno.fm/h6mn2c8ha8zuv",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "http://zeno.fm/favicon.ico"
+  },
+  {
+   "ad": "TRT Haber Radyo",
+   "url": "https://trt.radyotvonline.net/trthaber",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
+   "frekans": "95.0 FM (Ankara)"
+  },
+  {
+   "ad": "Radyo Taksi",
+   "url": "https://live.radyo.in/8006/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "FG 93.8 (Future Generation) mp3 128k",
+   "url": "https://edge1.radyotvonline.net/shoutcast/play/fg",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg"
+  },
+  {
+   "ad": "Aşk FM",
+   "url": "http://yayin.asymedya.com:8020/;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://www.radyoreklamankara.com/wp-content/uploads/2016/05/aşk-fm-300x300.png",
+   "frekans": "102.1 FM (Ankara)"
+  },
+  {
+   "ad": "Mydonose Türk",
+   "url": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac?/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Onur Radyo",
+   "url": "http://anadolu.liderhost.com.tr:8094/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RadyoVoyage",
+   "url": "http://voyagesc.radyotvonline.com/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "HOS MİX",
+   "url": "https://anadolu.liderhost.com.tr:10871/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "HAYAT MİX SLOW",
+   "url": "https://radyo.yayin.com.tr:4090/mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Govend radyo",
+   "url": "https://stream-56.zeno.fm/xzzu8kynq2zuv?zs=nZP7ZCRXQPOpDFenayr0bQ",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Dijital radyo",
+   "url": "https://anadolu.liderhost.com.tr:10961/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Lig Radyo",
+   "url": "https://ligradyo.radyotvonline.net/ligradyo",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Kıyı Müzik",
+   "url": "https://kiyi.radioca.st/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkiyimuzik.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fkiyi_radyo_logo.png&f=1&nofb=1&ipt=423a3e527aca8329cc1b4cce32694ac0cfa31811f92db41e100b719b331b0590"
+  },
+  {
+   "ad": "Emek radyo",
+   "url": "http://yayin1.radyohizmeti.com:8585/;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Abuzer FM",
+   "url": "http://live.radyotvonline.com:9030/;stream.nsv",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_51424770_294131.png"
+  },
+  {
+   "ad": "Max Fm 95.8 ‘Maximum Music'",
+   "url": "https://maxfm.radyotvonline.net/stream/164/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "GİMSA RADYO",
+   "url": "http://yayin1.canliyayin.org:9482/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://www.gimsa.com.tr/images/apple-touch-icon.png",
+   "frekans": "90.6 FM (Ankara)"
+  },
+  {
+   "ad": "Radyo 2000 Erzincan",
+   "url": "https://radyo.yayindakiler.com:3030/stream?/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "DanceLand Anthems",
+   "url": "https://likeradiostream.com/dancelandanthems",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://like.radio/favicon.ico"
+  },
+  {
+   "ad": "Arkadas Radyo",
+   "url": "http://yayin2.yayindakiler.com:4134/;stream.nsv",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Apacik Radyo",
+   "url": "http://stream.34bit.net/ar.aac",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://apacikradyo.com.tr/logo1024"
+  },
+  {
+   "ad": "Erzincan Nostalji Radyo",
+   "url": "https://erzincannostalji.ozelip.com/8238/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radyo Karadeniz",
+   "url": "https://radyomar.80.yayin.com.tr/;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://radyokaradeniz.com/uploads/settings/logo_69fcfb84e4cd6.png",
+   "frekans": "88.6 FM (Ankara)"
+  },
+  {
+   "ad": "Danceland",
+   "url": "https://likeradiostream.com/danceland",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://like.radio/favicon.ico"
+  },
+  {
+   "ad": "Köroğlu FM",
+   "url": "https://yayin.turkhosted.com:6068/stream?/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://www.canliradyodinle.fm/wp-content/uploads/koroglu-fm.jpg"
+  },
+  {
+   "ad": "HAYATMİX ARABESK",
+   "url": "https://radyo.yayin.com.tr:4078/mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "KTU",
+   "url": "https://sslyayin.netyayin.net/radyoktu/stream/;type=mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://www.ktu.edu.tr/image/tr_bg.png"
+  },
+  {
+   "ad": "GENÇ KRAL FM",
+   "url": "https://anadolu.liderhost.com.tr:10853/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radyo Mars",
+   "url": "https://yayin.radyomadyo.com:9400/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://radyomars.com/logo.png"
+  },
+  {
+   "ad": "SÜPER SHOW RADYO",
+   "url": "https://sslyayin.netyayin.net:6065/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Slow FM",
+   "url": "https://anadolu.liderhost.com.tr:10973/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "DEDEMİN RADYOSU",
+   "url": "https://anadolu.liderhost.com.tr/9002/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "literal",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL128AAC.aac",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "rock station",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_STATION128AAC.aac?/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "BEST SLOW",
+   "url": "https://hepsibest.radyotvonline.net/bestslow",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "ANTAKYA RENK FM HATAY",
+   "url": "https://radyo.yayindakiler.com:3016/renk",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "RADYO ZERGAN (47)",
+   "url": "https://sslyayin.netyayin.net/radyozergan/;",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "DOĞAN 21",
+   "url": "https://radyo.yayindakiler.com:3024/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "VİZYON NOSTALJİ",
+   "url": "https://stream.netradyom.com/radio/7090/radio.mp3/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "KİSS TÜRK SLOW",
+   "url": "http://dijimedya.radyotvonline.net/turkslow",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "YILDIZ FM",
+   "url": "https://radyo.yayin.com.tr:5940/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Kayseri GözdeFM",
+   "url": "https://sslyayin.radyoyayini.com:7067/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://bestefm.com/assets/favicon-32x32.png\" type=\"image/x-icon"
+  },
+  {
+   "ad": "KİSS GOLD TÜRK",
+   "url": "https://dijimedya.radyotvonline.net/goldturk",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radio Hayal",
+   "url": "https://anadolu.liderhost.com.tr/8058/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM2Zs0Z4mz2ITq-L7o2mYtKqDNDp0z8fDeaQ&s"
+  },
+  {
+   "ad": "RADYO DUBLE",
+   "url": "https://radyo.yayindakiler.com:2044/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Mio Radio",
+   "url": "https://s2.myradiostream.com/13662/;?type=http&nocache=1769756485?0.283950275860107",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "logo": "https://static.wixstatic.com/media/289b80_d3c08d5820c0a13527afed308f65aa07.jpg/v1/crop/x_59,y_22,w_273,h_236/fill/w_284,h_230,al_c,lg_1,q_80,enc_avif,quality_auto/289b80_d3c08d5820c0a13527afed308f65aa07.jpg"
+  },
+  {
+   "ad": "RADYO ÇUKUR",
+   "url": "https://radyo.yayin.com.tr:4060/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "LP World Fm",
+   "url": "https://stream.zeno.fm/hqjssdugsydvv",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://images.zeno.fm/9QUnMa3MYXf9Hjx3V5UWxEIAB0DvCCkbuQYRhp5Kyd8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3ak9uVzN3a01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJamVTbmtnb01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3ODA5MjA0MDc4ODY.webp"
+  },
+  {
+   "ad": "ORDU FM",
+   "url": "https://radyo.yayindakiler.com:8012/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "MASTİKA FM",
+   "url": "https://mastika1.80.yayin.com.tr/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "efkar",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "TİME TÜRK",
+   "url": "https://radyo.yayindakiler.com:4195/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "LP Roman Fm",
+   "url": "https://stream.zeno.fm/netvowp5t54uv",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://images.zeno.fm/YKyCa49EHAby_iNlVUCD7Bvh8e8iAiWcr7KbqDBEp5k/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2ZhZjYyZmEyLTRkOTYtNGQ5Yi1iMjVkLTBlZTE3MTY5ZmMwNy9pbWFnZS8_dT0xNzc3ODE1OTQ0NDUx.webp"
+  },
+  {
+   "ad": "EZGİ RADYO",
+   "url": "https://sslyayin.netyayin.net/elazigezgiradyo/stream/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radyo Sarıkamış",
+   "url": "https://live.radyositesihazir.com:8004/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://www.radyosarikamis.com/uploads/logo/sarisakmislogo.png"
+  },
+  {
+   "ad": "Self FM",
+   "url": "https://ssl22.radyotelekom.com/8084/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://selffm.com.tr/images/logo/1185584367744-653-logo-selffm-Qhd.png"
+  },
+  {
+   "ad": "MELANKOLİK HOME",
+   "url": "http://37.247.98.8/stream/20/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "ÇINAR FM",
+   "url": "https://sslyayin.netyayin.net:10992/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO DRK",
+   "url": "https://stream.zeno.fm/czwwh7xfqm0uv",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO EGE HAVALARI",
+   "url": "http://37.247.98.8/stream/29/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radyo Zile FM 93.5",
+   "url": "https://radyozile.ozelip.com/8114/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://radyozile.com/uploads/logo/Radyo-zile-1.pdf.pdf.pdf-385-x-118-piksel-250-x-400-piksel-_20250317_205042_0000.png"
+  },
+  {
+   "ad": "KİSS MUSİKİ",
+   "url": "https://dijimedya.radyotvonline.net/radyomusiki",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radyo Dede Bilişim Test Yayını",
+   "url": "https://live.sinirsizhost.com.tr/8080/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://dedebilisim.com.tr/uploads/settings/1779818800_DedeBili%C5%9Fim%20logo%20yaz%C4%B1-crop.png"
+  },
+  {
+   "ad": "Afra Radyo",
+   "url": "https://radyo.yayin.com.tr:5714/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://dl.dropboxusercontent.com/scl/fi/nlyieny7k39k6wtp1uh8e/afraradyo.png?rlkey=7em43zu5qe3lj8zrc52sr64ae&st=q7hyjkw2"
+  },
+  {
+   "ad": "GELİŞİM RADYO",
+   "url": "http://radyo.yayindakiler.com:4008/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "OĞUZ FM",
+   "url": "https://radyo.yayin.com.tr:5892/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "ERZİNCAN FM",
+   "url": "https://sslyayin.netyayin.net:10943/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "BARIŞ FM",
+   "url": "https://sslyayin.netyayin.net:10990/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "BİGA FM",
+   "url": "https://radyo.yayin.com.tr:5896/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "İNCİTEK FM",
+   "url": "https://radyo.yayindakiler.com:4204/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO MONİ",
+   "url": "https://radyo.yayin.com.tr:4262/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO MUĞLA",
+   "url": "https://radyo.yayindakiler.com:3006/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO BLACK",
+   "url": "https://anadolu.liderhost.com.tr:10966/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO CLUBBİN",
+   "url": "https://radyo.yayin.com.tr:6199/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "DOLU RADYO",
+   "url": "https://sslyayin.radyoyayini.com:7070/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RAP HOME",
+   "url": "http://37.247.98.8/stream/606/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "WORLD HİTS",
+   "url": "http://37.247.98.8/stream/34/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RUN ON AİR",
+   "url": "https://stream.radio.co/s5865f80fd/listen",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "KISS SPEED UP",
+   "url": "https://dijimedya.radyotvonline.net/speedup",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO KİLİM",
+   "url": "https://sslyayin.netyayin.net:10946/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "KİSS GENÇ",
+   "url": "https://dijimedya.radyotvonline.net/gncradyo",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO AVARE",
+   "url": "https://anadolu.liderhost.com.tr:10980/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Dünyadan Sesler Radio",
+   "url": "https://stream.dodo.radio/dunyadansesler",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Bizim Fm Şile",
+   "url": "https://stream.turkiyeradyolari.com/9300/stream?_t=1786859250066",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://www.bizimfmsile.com/u/i/logo3.png"
+  },
+  {
+   "ad": "RADYO FLAS",
+   "url": "https://radyo.yayindakiler.com:4096/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO HAZAR",
+   "url": "https://radyo.yayin.com.tr:8286/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Radyo Tutkal",
+   "url": "https://live.radyositesihazir.com/8034/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo Deva Adana",
+   "url": "http://yayin.yayindakiler.com:3040/;stream.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo Karakoçan",
+   "url": "https://radyokarakocan.ozelip.com/8006/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "RADYO LOJİK",
+   "url": "https://ip20.ozelip.com:9710/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO PAUSE",
+   "url": "https://radyopause.ozelip.com.tr:8040/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "KLASİK HOME",
+   "url": "http://37.247.98.8/stream/32/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO MOOD",
+   "url": "https://radyo.yayin.com.tr:5862/;",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "DADA RADYO",
+   "url": "http://stream.laut.fm/dadaradio",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "MELODİ RADYO",
+   "url": "https://radyomelodi.80.yayin.com.tr/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "Tüm Zamanların En İyileri",
+   "url": "https://25453.live.streamtheworld.com:443/GHOAT_TR128AAC.aac",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "https://mediacdns.karnaval.com/media/station_media/357/logos/android_default_logo.png"
+  },
+  {
+   "ad": "RADYO NEŞE",
+   "url": "https://radyo.yayindakiler.com:2042/",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO AHENK",
+   "url": "https://yayin.radyomadyo.com:8014/stream",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "RADYO BAŞKA",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BASKA.mp3",
+   "ulke": "Türkiye",
+   "kod": "tr"
+  },
+  {
+   "ad": "TRT Türkü",
+   "url": "https://rd-trtturku.medya.trt.com.tr/master_128.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "98.6 FM (Ankara)"
+  },
+  {
+   "ad": "HOUSELAND",
+   "url": "https://moondigitaledge.radyotvonline.net/houseland/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Kafa Radyo",
+   "url": "https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "87.5 FM (Ankara)"
+  },
+  {
+   "ad": "FENOMEN KARISIK",
+   "url": "https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Vav Radyo",
+   "url": "https://trkvz-radyolar.ercdn.net/radyovav/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "101.3 FM (Ankara)"
+  },
+  {
+   "ad": "FENOMEN POP",
+   "url": "https://live.radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Pal Fm",
+   "url": "https://ssl4.radyotvonline.com/radyohome/palfmhome.stream/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "87.7 FM (Ankara)"
+  },
+  {
+   "ad": "FENOMEN DANS",
+   "url": "https://live.radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "PAL Nostalji",
+   "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "91.4 FM (Ankara)"
+  },
+  {
+   "ad": "EFSANE 4LÜ",
+   "url": "https://moondigitalmaster.radyotvonline.net/efsane4lu/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "FENOMEN TÜRK",
+   "url": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "99.5 FM (Ankara)"
+  },
+  {
+   "ad": "TRT3",
+   "url": "http://rd-trtradyo3.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "91.2 FM (Ankara)"
+  },
+  {
+   "ad": "Radyo Spor",
+   "url": "https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "97.7 FM (Ankara)"
+  },
+  {
+   "ad": "HOME KLASİK",
+   "url": "https://ssl4.radyotvonline.com/radyohome/klasikhome.stream_aac/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "CLASSICLAND",
+   "url": "https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "BABYLAND",
+   "url": "https://moondigitaledge.radyotvonline.net/babyland/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Fenomen Türk 256",
+   "url": "https://live.radyofenomen.com/fenomenturk/256/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "RADYO DOKSANLAR",
+   "url": "https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "FENOMEN AKUSTIK",
+   "url": "https://live.radyofenomen.com/fenomenakustik/abr/fenomenakustik/128/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "GREEKLAND",
+   "url": "https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Standart.fm",
+   "url": "https://moondigitaledge.radyotvonline.net/standartfm/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT Memleketim FM",
+   "url": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Fenomen Karışık 256",
+   "url": "https://live.radyofenomen.com/fenomenkarisik/256/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "POWER EARTH",
+   "url": "http://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Fenomen Clubbin 256",
+   "url": "https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Discoland",
+   "url": "https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT Radyo Arabi / عربي",
+   "url": "https://radio-trtarabi.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Fenomen Dans 256",
+   "url": "https://live.radyofenomen.com/fenomendans/256/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT Antalya",
+   "url": "https://radio-trtantalya.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "POP HOME",
+   "url": "https://moondigitalmaster.radyotvonline.net/pophome/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT Erzurum",
+   "url": "https://radio-trterzurum.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "POP LAND",
+   "url": "https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT Çukurova",
+   "url": "https://radio-trtcukurova.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo Eksen",
+   "url": "https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT Trabzon",
+   "url": "https://radio-trttrabzon.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Fenomen Pop 256",
+   "url": "https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Fenomen 256",
+   "url": "https://live.radyofenomen.com/fenomen/256/chunks.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "İstanbul FM",
+   "url": "https://yayin.istanbulfm.com.tr/istanbulfm/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Easyland",
+   "url": "https://moondigitaledge.radyotvonline.net/easyland/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT TSR",
+   "url": "https://radio-trttsr.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo Delal",
+   "url": "https://wowza1.radyotvonline.com/idilpr/radyodelal.stream/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "power plus",
+   "url": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT VOT World",
+   "url": "https://radio-trtvotworld.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "istanbulfm",
+   "url": "https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "RELAX HOME",
+   "url": "https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT VOT East",
+   "url": "https://radio-trtvoteast.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo 7 Türkü",
+   "url": "https://moondigitaledge2.radyotvonline.net/radyo7turku/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Ülke Radyo",
+   "url": "https://ssl4.radyotvonline.com/radyohome/ulkeradyo.stream_aac/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "RADYO AKUSTİKLAND",
+   "url": "https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "RADYO MÜZEYYEN",
+   "url": "https://moondigitaledge.radyotvonline.net/muzeyyen/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "TRT VOT West",
+   "url": "https://radio-trtvotwest.medya.trt.com.tr/master.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "FLOW RADYO",
+   "url": "https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Best of Number 1",
+   "url": "https://ssldyg2.radyotvonline.com/live/bestofyabanci.stream/chunklist_w273426829.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "BEST KINA",
+   "url": "https://wowza3.radyotvonline.com/best/bestkina.stream/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "GARAJ RADYO",
+   "url": "https://moondigitaledge.radyotvonline.net/garajradyo/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo Vokal",
+   "url": "https://moondigitaledge.radyotvonline.net/radyovokal/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
   },
   {
    "ad": "Radio Paradise Main Mix (EU) 320k AAC",
