@@ -2974,6 +2974,35 @@
    "dil": "Türkçe"
   },
   {
+   "ad": "Erzincan Cem Radyo",
+   "url": "https://erzincan.80.yayin.com.tr/stream",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Pir Yolu",
+   "url": "http://radyopiryolu.canliyayinda.com:8165/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "logo": "http://radyopiryolu.canliyayinda.com:8165/favicon.ico"
+  },
+  {
+   "ad": "Radyo Munzur 97.7",
+   "url": "http://yayin1.yayindakiler.com:3002/;stream.nsv",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radyo Alevi Canlar",
+   "url": "https://alevifm.80.yayin.com.tr/",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe"
+  },
+  {
    "ad": "Radio Paradise Main Mix (EU) 320k AAC",
    "url": "http://stream-uk1.radioparadise.com/aac-320",
    "ulke": "ABD",
