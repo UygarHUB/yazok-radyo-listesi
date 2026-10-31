@@ -4,6 +4,14 @@
  "kaynak": "Resmi siteler ve Radio Browser",
  "radyolar": [
   {
+   "ad": "Polis Radyosu",
+   "url": "https://m.egm.gov.tr:8093/;?type=http&nocache=1",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "94.4 FM (Ankara)"
+  },
+  {
    "ad": "Turkuvaz Romantik",
    "url": "https://trkvz-radyolar.ercdn.net/turkuvazromantik/playlist.m3u8",
    "ulke": "Türkiye",
@@ -2174,6 +2182,14 @@
    "kod": "de",
    "dil": "İngilizce",
    "tur": "Blues, Pop"
+  },
+  {
+   "ad": "RADIO BOB - Blues",
+   "url": "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de/",
+   "ulke": "Almanya",
+   "kod": "de",
+   "dil": "Almanca",
+   "tur": "Blues"
   },
   {
    "ad": "ABC News Radio",
