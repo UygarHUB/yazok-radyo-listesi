@@ -83,14 +83,6 @@
    "dil": "Türkçe"
   },
   {
-   "ad": "A Haber Radyo",
-   "url": "https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "frekans": "90.0 FM (Ankara)"
-  },
-  {
    "ad": "Best FM",
    "url": "https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8",
    "ulke": "Türkiye",
@@ -532,12 +524,6 @@
    "kod": "tr"
   },
   {
-   "ad": "LALEGÜL FM",
-   "url": "https://icecast.netmedya.net/lalegulfm",
-   "ulke": "Türkiye",
-   "kod": "tr"
-  },
-  {
    "ad": "dinamo.fm deep",
    "url": "http://channels.dinamo.fm/deep-mp3",
    "ulke": "Türkiye",
@@ -594,13 +580,6 @@
    "ulke": "Türkiye",
    "kod": "tr",
    "logo": "https://turkuradyo.net/wp-content/themes/TurkuRadyo/images/logo.png"
-  },
-  {
-   "ad": "Dost FM",
-   "url": "http://yayin.dostfm.com:8920/;.mp3?no_dl",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "frekans": "89.2 FM (Ankara)"
   },
   {
    "ad": "dinamo.fm legacy",
@@ -702,13 +681,6 @@
    "logo": "https://www.fakirfm.com/favicon.ico"
   },
   {
-   "ad": "Radyo Maranata",
-   "url": "http://medya.radyomaranata.com:8005/live",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe"
-  },
-  {
    "ad": "Loops Radio Elektronica Station",
    "url": "https://ssl22.radyotelekom.com/8232/stream",
    "ulke": "Türkiye",
@@ -764,14 +736,6 @@
    "tur": "Pop"
   },
   {
-   "ad": "Radyo Nida",
-   "url": "https://anadolu.liderhost.com.tr/8106/stream",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "logo": "https://radyonida.com.tr/dist/img/radyo-nida.jpg?2"
-  },
-  {
    "ad": "MEGASITE",
    "url": "https://stream.netradyom.com/listen/megasite/radio.mp3",
    "ulke": "Türkiye",
@@ -803,13 +767,6 @@
    "logo": "https://radioline.fm/wp-content/uploads/2020/05/radioline_logo.png"
   },
   {
-   "ad": "oyunpiyat",
-   "url": "https://yayin.hostwin.net/8888/stream%20%20oyunpiyatfm",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe"
-  },
-  {
    "ad": "Radyo Kent",
    "url": "https://kentfm955.ozelip.com/9306/stream",
    "ulke": "Türkiye",
@@ -833,13 +790,6 @@
    "tur": "Caz, Pop"
   },
   {
-   "ad": "Radyo Fıtrat",
-   "url": "http://radyofitrat.radyotvonline.net/",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe"
-  },
-  {
    "ad": "Radyo Trio",
    "url": "http://radyotrio.radyotvonline.net/radyotrio",
    "ulke": "Türkiye",
@@ -852,13 +802,6 @@
    "ulke": "Türkiye",
    "kod": "tr",
    "logo": "https://radyoduygusal.com/uploads/favicon/oooooooo.jpg"
-  },
-  {
-   "ad": "Konya İsra FM",
-   "url": "https://yayin2.canliyayin.org:8210/;stream",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "logo": "https://www.canliradyodinle.fm/wp-content/uploads/isra-fm.jpg"
   },
   {
    "ad": "Arabesk FM",
@@ -908,48 +851,11 @@
    "logo": "https://www.radyogokceada.net/favicon.ico"
   },
   {
-   "ad": "JOY TÜRK FM",
-   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "frekans": "106.0 FM (Ankara)"
-  },
-  {
    "ad": "X Radio",
    "url": "http://stream.xradio.com.tr:8770/",
    "ulke": "Türkiye",
    "kod": "tr",
    "dil": "Türkçe"
-  },
-  {
-   "ad": "REPLAY NEWS - Türkçe    Her 5 dakikada haber radyosu",
-   "url": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-TR.png"
-  },
-  {
-   "ad": "Radyo EN",
-   "url": "https://yayin2.canliyayin.org:7222/;",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "logo": "https://www.radyoen.com.tr/images/radyo-en-logo.png"
-  },
-  {
-   "ad": "Radyo Hakkın Sesi",
-   "url": "https://radio.mihr.com/radio/8010/hakkinsesi",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "logo": "https://mihr.com/Content/images/logo2.png"
-  },
-  {
-   "ad": "Erkam Radyo",
-   "url": "https://api-tv5.yayin.com.tr:8002/mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "logo": "https://www.erkamradyo.com/images/logos/logo.png",
-   "frekans": "104.9 FM (Ankara)"
   },
   {
    "ad": "Radyo 45'lik",
@@ -958,13 +864,6 @@
    "kod": "tr",
    "tur": "Pop",
    "frekans": "93.8 FM (Ankara)"
-  },
-  {
-   "ad": "Radyo Hidayet Çağı",
-   "url": "https://radio.mihr.com/radio/8000/radio.mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "logo": "https://www.mihr.com/Content/images/mihrcom.ico"
   },
   {
    "ad": "Radyo Seymen",
@@ -992,33 +891,11 @@
    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/gol-radyo.jpg"
   },
   {
-   "ad": "Her An Kur'an Her An Mutluluk",
-   "url": "https://radio.mihr.com/radio/8050/radio.mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "logo": "https://radio.mihr.com/api/station/6/art/9a76153b3003c3b5e252be87-1663451578.jpg"
-  },
-  {
-   "ad": "NUR Radyo",
-   "url": "https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "logo": "https://www.mihr.com/Content/images/mihrcom.ico"
-  },
-  {
    "ad": "Tarsus FM",
    "url": "https://tarsusfm.80.yayin.com.tr//stream",
    "ulke": "Türkiye",
    "kod": "tr",
    "logo": "https://tarsusfm.com.tr/favicon.ico"
-  },
-  {
-   "ad": "radio Megasite",
-   "url": "http://yayin.asymedya.com:8020/radio.mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "frekans": "101.1 FM (Ankara)"
   },
   {
    "ad": "Süper FM 99.9",
@@ -1122,15 +999,6 @@
    "logo": "https://bestefm.com/assets/favicon.ico"
   },
   {
-   "ad": "Mekke Fm",
-   "url": "https://radyodinle.cansuyufm.com/17175/stream;",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "tur": "Klasik",
-   "logo": "https://www.cansuyufm.com/wp-content/uploads/2024/04/logo_100.png"
-  },
-  {
    "ad": "TRT FM",
    "url": "https://trt.radyotvonline.net/trtfm",
    "ulke": "Türkiye",
@@ -1177,13 +1045,6 @@
    "logo": "https://bestefm.com/assets/favicon.ico"
   },
   {
-   "ad": "Radyo İlahi",
-   "url": "https://anadolu.liderhost.com.tr:10994/;",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe"
-  },
-  {
    "ad": "RADYOTÜRK",
    "url": "https://radyo.yayindakiler.com:4028/",
    "ulke": "Türkiye",
@@ -1204,12 +1065,6 @@
    "kod": "tr",
    "logo": "https://cgtnturkcom.teimg.com/cgtnturk-com/uploads/2024/07/cgtn-turk-favicon-altin-1.png",
    "frekans": "91.6 FM (Ankara)"
-  },
-  {
-   "ad": "KENT RADYO",
-   "url": "https://anadolu.liderhost.com.tr:10906/",
-   "ulke": "Türkiye",
-   "kod": "tr"
   },
   {
    "ad": "Radyo 45lik yeni",
@@ -1256,14 +1111,6 @@
    "url": "https://canli.dtnostalji.com.tr/9999/stream",
    "ulke": "Türkiye",
    "kod": "tr"
-  },
-  {
-   "ad": "Sivas FM",
-   "url": "https://yayin2.canliyayin.org:10960/;stream",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "logo": "https://www.sivasfm.com.tr/wp-content/uploads/2021/10/favico.png"
   },
   {
    "ad": "Çağrı FM Diyarbakır",
@@ -1322,15 +1169,6 @@
    "kod": "tr"
   },
   {
-   "ad": "Radyo Tulu",
-   "url": "http://yayin2.canliyayin.org:8248/;*.mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "tur": "Klasik",
-   "logo": "https://www.radyotulu.com/images/tulu-radyo-logo.png"
-  },
-  {
    "ad": "GENÇ RADYO",
    "url": "https://yayin.turkhosted.com:6030/",
    "ulke": "Türkiye",
@@ -1357,14 +1195,6 @@
    "ulke": "Türkiye",
    "kod": "tr",
    "logo": "https://r.resimlink.com/CfF49Nv.jpeg"
-  },
-  {
-   "ad": "İhya Fm",
-   "url": "https://radyo.yayin.com.tr:2727/stream",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "tur": "Klasik",
-   "logo": "https://ihyafm.com.tr/public/logo.png"
   },
   {
    "ad": "VİRGİN RADYO",
@@ -1440,15 +1270,6 @@
    "kod": "tr"
   },
   {
-   "ad": "Karadut Fm",
-   "url": "https://yayin5.radyohizmeti.com/9982/stream",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "tur": "Klasik",
-   "logo": "https://www.karadutfm.com/resimler/sistem/20571KARADUT%20FM%20LOGO.png"
-  },
-  {
    "ad": "Coastiva Radio",
    "url": "https://radio.coastiva.travel/listen/coastiva_radio/radio.mp3",
    "ulke": "Türkiye",
@@ -1459,15 +1280,6 @@
    "url": "https://radyoyanki.ozelip.com:9918/",
    "ulke": "Türkiye",
    "kod": "tr"
-  },
-  {
-   "ad": "Gül Fm",
-   "url": "https://yayin2.canliyayin.org:10989/;*.mp3",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "tur": "Klasik",
-   "logo": "https://www.radyogul.com.tr/images/logo.png"
   },
   {
    "ad": "Edizfm",
@@ -1531,12 +1343,6 @@
   {
    "ad": "BATI RADYO",
    "url": "https://sslyayin.netyayin.net:10902/",
-   "ulke": "Türkiye",
-   "kod": "tr"
-  },
-  {
-   "ad": "X RADYO",
-   "url": "https://stream.xradio.com.tr:8770/stream",
    "ulke": "Türkiye",
    "kod": "tr"
   },
@@ -1610,15 +1416,6 @@
    "url": "https://canli.radyogenclik.com:9000/",
    "ulke": "Türkiye",
    "kod": "tr"
-  },
-  {
-   "ad": "Radyo Nebi",
-   "url": "https://anadolu.liderhost.com.tr/9006/stream",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "tur": "Klasik",
-   "logo": "https://static.mytuner.mobi/media/tvos_radios/tctwqdwfr6sf.png"
   },
   {
    "ad": "Radyo Gönül Mısraları",
@@ -1783,14 +1580,6 @@
    "logo": "https://gurbetcifm.com/panel/uploads/reference_v/555x343/gurbetci-logo.jpg"
   },
   {
-   "ad": "Mayday Records Radio",
-   "url": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3?1781007629",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "İngilizce",
-   "logo": "https://maydayrecords.net/favicon.ico"
-  },
-  {
    "ad": "Radyo Yaren",
    "url": "https://sslyayin.radyoyayini.com:7097/stream",
    "ulke": "Türkiye",
@@ -1876,15 +1665,6 @@
    "kod": "us",
    "dil": "İngilizce",
    "logo": "https://icecast.walmradio.com:8443/otr.jpg"
-  },
-  {
-   "ad": "WALM 2 HD",
-   "url": "https://icecast.walmradio.com:8443/walm2",
-   "ulke": "ABD",
-   "kod": "us",
-   "dil": "İngilizce",
-   "tur": "Klasik",
-   "logo": "https://icecast.walmradio.com:8443/walm.jpg"
   },
   {
    "ad": "101 SMOOTH JAZZ",
@@ -2171,14 +1951,6 @@
    "logo": "https://www.ffh.de/android-icon.png"
   },
   {
-   "ad": "80s80s Radio",
-   "url": "http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nr0o818%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1793112088",
-   "ulke": "Almanya",
-   "kod": "de",
-   "tur": "Pop",
-   "logo": "https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png"
-  },
-  {
    "ad": "MDR Klassik",
    "url": "http://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3",
    "ulke": "Almanya",
@@ -2402,14 +2174,6 @@
    "kod": "de",
    "dil": "İngilizce",
    "tur": "Blues, Pop"
-  },
-  {
-   "ad": "RADIO BOB - Blues [mp3 | 192 kbps]",
-   "url": "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de/",
-   "ulke": "Almanya",
-   "kod": "de",
-   "dil": "Almanca",
-   "tur": "Caz, Blues, Pop"
   },
   {
    "ad": "ABC News Radio",
@@ -3032,13 +2796,6 @@
    "dil": "Arapça"
   },
   {
-   "ad": "Alseraj Radio Islam",
-   "url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
-   "ulke": "Irak",
-   "kod": "iq",
-   "dil": "Arapça"
-  },
-  {
    "ad": "Al rasheed fm",
    "url": "https://streaming.shoutcast.com/alrasheed-fm?1719771692024",
    "ulke": "Irak",
@@ -3052,14 +2809,6 @@
    "dil": "İngilizce",
    "tur": "Blues, Pop",
    "logo": "https://www.jointil.com/broadcast/images/joint.radio350X350.png"
-  },
-  {
-   "ad": "GGFM 90.1 Discovery Bay",
-   "url": "http://usa14.fastcast4u.com:5192/;",
-   "ulke": "Jamaica",
-   "kod": "jm",
-   "dil": "İngilizce",
-   "tur": "Blues"
   },
   {
    "ad": "# RdMix Classic Rock 70s 80s 90s",
@@ -3264,13 +3013,6 @@
    "kod": "eg"
   },
   {
-   "ad": "Radio القارئ علي حجاج السويسي",
-   "url": "http://live.mp3quran.net:9842/",
-   "ulke": "Mısır",
-   "kod": "eg",
-   "dil": "Arapça"
-  },
-  {
    "ad": "P5 Nonstop Hits (AAC HQ)",
    "url": "https://p5n.p4groupaudio.com/P05AAH",
    "ulke": "Norveç",
@@ -3441,27 +3183,11 @@
    "dil": "Arapça"
   },
   {
-   "ad": "RadioSunna",
-   "url": "http://andromeda.shoutca.st:8189/stream",
-   "ulke": "Suudi Arabistan",
-   "kod": "sa",
-   "dil": "Arapça",
-   "logo": "http://www.radiosunna.com/favicon.ico"
-  },
-  {
    "ad": "Fred Film Radio(لغة عربية)",
    "url": "https://s10.webradio-hosting.com/proxy/fredradioar/stream",
    "ulke": "Suudi Arabistan",
    "kod": "sa",
    "dil": "Arapça"
-  },
-  {
-   "ad": "إذاعة القرآن الكريم (مكة المكرمة)",
-   "url": "https://edge.mixlr.com/channel/rwumx",
-   "ulke": "Suudi Arabistan",
-   "kod": "sa",
-   "dil": "Arapça",
-   "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l7-P-EYqU6nvNkyJreIBeeU5YrB2Yl7NlLZH7Q%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1&ipt=be99841f3a5400a88c7503f144430b73989924c3b2990e794b76c06b1cc36491"
   },
   {
    "ad": "TDI Radio",
