@@ -1,227 +1,1667 @@
 {
- "surum": 1,
+ "surum": 2,
  "guncelleme": "2026-10-31",
  "kaynak": "Radio Browser",
  "radyolar": [
   {
    "ad": "Arabesk FM",
-   "url": "http://yayin.arabeskfm.biz:8042/"
+   "url": "http://yayin.arabeskfm.biz:8042/",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Virgin Radio Türkiye",
-   "url": "http://28933.live.streamtheworld.com:3690/VIRGIN_RADIO_SC"
+   "url": "http://28933.live.streamtheworld.com:3690/VIRGIN_RADIO_SC",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "DAMAR TURK FM",
-   "url": "https://live.radyositesihazir.com:10997/"
+   "url": "https://live.radyositesihazir.com:10997/",
+   "ulke": "Türkiye",
+   "dil": "Fransızca, Almanca, Türkçe"
   },
   {
    "ad": "Radyo 7",
-   "url": "http://46.20.3.250/;stream"
+   "url": "http://46.20.3.250/;stream",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Türkülerle Türkiye",
-   "url": "http://37.247.98.8/stream/22/;"
+   "url": "http://37.247.98.8/stream/22/;",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Radyo Şiran",
-   "url": "https://live.radyositesihazir.com/8078/stream"
+   "url": "https://live.radyositesihazir.com/8078/stream",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Metro FM",
-   "url": "http://25443.live.streamtheworld.com/METRO_FMAAC_SC"
+   "url": "http://25443.live.streamtheworld.com/METRO_FMAAC_SC",
+   "ulke": "Türkiye"
   },
   {
    "ad": "KRAL TÜRK FM",
-   "url": "https://live.radyositesihazir.com/8032/stream"
+   "url": "https://live.radyositesihazir.com/8032/stream",
+   "ulke": "Türkiye"
   },
   {
    "ad": "NTV Radyo",
-   "url": "http://46.20.3.207/listen.pls"
+   "url": "http://46.20.3.207/listen.pls",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Ankara Havalari",
-   "url": "http://37.247.98.8/stream/30/;"
+   "url": "http://37.247.98.8/stream/30/;",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Baba Radyo",
-   "url": "http://46.20.7.116/"
+   "url": "http://46.20.7.116/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "ALTIN SARKILAR",
-   "url": "http://37.247.98.8/stream/25/;"
+   "url": "http://37.247.98.8/stream/25/;",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Radyo Fenomen",
-   "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio"
+   "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Süper FM",
-   "url": "http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC"
+   "url": "http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
+   "ulke": "Türkiye"
   },
   {
    "ad": "dinamo.fm sleep",
-   "url": "http://channels.dinamo.fm/sleep-mp3"
+   "url": "http://channels.dinamo.fm/sleep-mp3",
+   "ulke": "Türkiye",
+   "dil": "İngilizce, Türkçe"
   },
   {
    "ad": "Radyo Seymen",
-   "url": "https://yayin.radyoseymen.com.tr:1070/stream"
+   "url": "https://yayin.radyoseymen.com.tr:1070/stream",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Super Fm",
-   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC"
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
+   "ulke": "Türkiye"
   },
   {
    "ad": "90lar",
-   "url": "http://37.247.98.8/stream/166/"
+   "url": "http://37.247.98.8/stream/166/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Radyo Voyage",
-   "url": "http://voyagewmp.radyotvonline.com/;stream.mp3"
+   "url": "http://voyagewmp.radyotvonline.com/;stream.mp3",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Pal station",
-   "url": "http://shoutcast.radyogrup.com:1020/"
+   "url": "http://shoutcast.radyogrup.com:1020/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "pop 90",
-   "url": "http://23623.live.streamtheworld.com/POP90AAC_SC"
+   "url": "http://23623.live.streamtheworld.com/POP90AAC_SC",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Turku Radyo",
-   "url": "http://radyo.turkuradyo.net:4591/turkuradyo"
+   "url": "http://radyo.turkuradyo.net:4591/turkuradyo",
+   "ulke": "Türkiye"
   },
   {
    "ad": "JOY TÜRK",
-   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/"
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Slow Turk",
-   "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk"
+   "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Joy Fm",
-   "url": "http://25703.live.streamtheworld.com/JOY_FMAAC_SC"
+   "url": "http://25703.live.streamtheworld.com/JOY_FMAAC_SC",
+   "ulke": "Türkiye"
   },
   {
    "ad": "dinamo.fm deep",
-   "url": "http://channels.dinamo.fm/deep-mp3"
+   "url": "http://channels.dinamo.fm/deep-mp3",
+   "ulke": "Türkiye",
+   "dil": "İngilizce, Türkçe"
   },
   {
    "ad": "Radyo 45lik yeni",
-   "url": "https://stream.radyo45lik.com:4545/"
+   "url": "https://stream.radyo45lik.com:4545/",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Alem Fm",
-   "url": "https://turkmedya.radyotvonline.net/alemfmaac"
+   "url": "https://turkmedya.radyotvonline.net/alemfmaac",
+   "ulke": "Türkiye"
   },
   {
    "ad": "SUPER FM 2",
-   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/"
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Dost",
-   "url": "http://yayin1.yayindakiler.com:3156/"
+   "url": "http://yayin1.yayindakiler.com:3156/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Kurd1 FM",
-   "url": "https://listen.radioking.com/radio/119251/stream/158701"
+   "url": "https://listen.radioking.com/radio/119251/stream/158701",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Habertürk Radyo",
-   "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo"
+   "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo",
+   "ulke": "Türkiye"
   },
   {
    "ad": "dinamo.fm caffe",
-   "url": "http://channels.dinamo.fm/caffe-mp3"
+   "url": "http://channels.dinamo.fm/caffe-mp3",
+   "ulke": "Türkiye",
+   "dil": "İngilizce, Türkçe"
   },
   {
    "ad": "dinamo.fm discotheque",
-   "url": "http://channels.dinamo.fm/discotheque-mp3"
+   "url": "http://channels.dinamo.fm/discotheque-mp3",
+   "ulke": "Türkiye",
+   "dil": "İngilizce, Türkçe"
   },
   {
    "ad": "Radyo ODTU",
-   "url": "http://stream.radyoodtu.com.tr/;"
+   "url": "http://stream.radyoodtu.com.tr/;",
+   "ulke": "Türkiye"
   },
   {
    "ad": "TRT FM",
-   "url": "https://trt.radyotvonline.net/trtfm"
+   "url": "https://trt.radyotvonline.net/trtfm",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Radio Ava Turkiye",
-   "url": "http://play.markaradyo.com:8002/stream"
+   "url": "http://play.markaradyo.com:8002/stream",
+   "ulke": "Türkiye",
+   "dil": "Farsça, Türkçe"
   },
   {
    "ad": "Gözyaşı FM",
-   "url": "http://yayin1.canliyayin.org:8700/;*.mp3"
+   "url": "http://yayin1.canliyayin.org:8700/;*.mp3",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Park Fm",
-   "url": "http://yayin.netradyom.com:8050/PARKFM/"
+   "url": "http://yayin.netradyom.com:8050/PARKFM/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "lokum fm",
-   "url": "http://37.247.98.9/stream/493/?/;stream.mp3"
+   "url": "http://37.247.98.9/stream/493/?/;stream.mp3",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Radyo Ekin",
-   "url": "http://yayin.turkhosted.com:6006/"
+   "url": "http://yayin.turkhosted.com:6006/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Radyo A (Radyo Anadolu Üniversitesi)",
-   "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3"
+   "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Magic FM",
-   "url": "http://yayin1.yayindakiler.com:3032/"
+   "url": "http://yayin1.yayindakiler.com:3032/",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Halk Radyo",
-   "url": "https://anadolu.liderhost.com.tr:10876/;"
+   "url": "https://anadolu.liderhost.com.tr:10876/;",
+   "ulke": "Türkiye"
   },
   {
    "ad": "dinamo.fm locodyno",
-   "url": "http://channels.dinamo.fm/locodyno-mp3"
+   "url": "http://channels.dinamo.fm/locodyno-mp3",
+   "ulke": "Türkiye",
+   "dil": "İngilizce, Türkçe"
   },
   {
    "ad": "Havin FM",
-   "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3"
+   "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
+   "ulke": "Türkiye",
+   "dil": "Kürtçe"
   },
   {
    "ad": "Avrasya Türk Radyo",
-   "url": "https://sslyayin.netyayin.net:10909/"
+   "url": "https://sslyayin.netyayin.net:10909/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "KEYF STATION",
-   "url": "http://yayin.radyomadyo.com:8002/stream"
+   "url": "http://yayin.radyomadyo.com:8002/stream",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Pal Doğa",
-   "url": "http://shoutcast.radyogrup.com:1040/;*.mp3"
+   "url": "http://shoutcast.radyogrup.com:1040/;*.mp3",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Radio Antalya",
-   "url": "https://my.radiolize.com/radio/8000/radio.mp3"
+   "url": "https://my.radiolize.com/radio/8000/radio.mp3",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
   },
   {
    "ad": "Radyo Fenomen Clubbin",
-   "url": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio"
+   "url": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio",
+   "ulke": "Türkiye",
+   "dil": "İngilizce, Türkçe"
   },
   {
    "ad": "JOY TÜRK ROCK",
-   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/"
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Erzincan Cem Radyo",
-   "url": "https://erzincan.80.yayin.com.tr/stream"
+   "url": "https://erzincan.80.yayin.com.tr/stream",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Borusan Klasik",
-   "url": "http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC"
+   "url": "http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC",
+   "ulke": "Türkiye"
   },
   {
    "ad": "Radio 44",
-   "url": "https://radyo44.80.yayin.com.tr/stream"
+   "url": "https://radyo44.80.yayin.com.tr/stream",
+   "ulke": "Türkiye",
+   "dil": "Türkçe"
+  },
+  {
+   "ad": "Radio Paradise Main Mix (EU) 320k AAC",
+   "url": "http://stream-uk1.radioparadise.com/aac-320",
+   "ulke": "ABD",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "WALM - Old Time Radio",
+   "url": "https://icecast.walmradio.com:8443/otr",
+   "ulke": "ABD",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "WALM 2 HD",
+   "url": "https://icecast.walmradio.com:8443/walm2",
+   "ulke": "ABD",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "101 SMOOTH JAZZ",
+   "url": "http://jking.cdnstream1.com/b22139_128mp3",
+   "ulke": "ABD",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "181.FM - Old School HipHop/RnB",
+   "url": "http://listen.181fm.com/181-oldschool_128k.mp3",
+   "ulke": "ABD",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "MANGORADIO",
+   "url": "https://mangoradio.stream.laut.fm/mangoradio",
+   "ulke": "Almanya",
+   "dil": "İngilizce, Almanca"
+  },
+  {
+   "ad": "Rock Antenne - Heavy Metal",
+   "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "1LIVE",
+   "url": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "80s80s",
+   "url": "http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "90s90s Hits",
+   "url": "http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "90s90s HipHop & Rap",
+   "url": "http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/",
+   "ulke": "Almanya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Sunshine Live - Die 90er",
+   "url": "http://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "Rock Antenne",
+   "url": "http://mp3channels.webradio.rockantenne.de/rockantenne",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "WDR 5",
+   "url": "http://wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "TranceBase.FM - AAC HD 256k",
+   "url": "http://listen.trancebase.fm/tunein-aac-hd-pls",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "Antenne Bayern",
+   "url": "http://mp3channels.webradio.antenne.de/antenne",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "SWR3",
+   "url": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
+   "ulke": "Almanya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "ABC NewsRadio MP3",
+   "url": "http://abc.streamguys1.com/live/newsradio/icecast.audio",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Kiss FM 87.6, 87.8 & 88.0 Melbourne, VIC",
+   "url": "http://cc.net2streams.com:8565/kissfm.mp3",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "ABC Radio National AAC+",
+   "url": "http://abc.streamguys1.com/live/rnnsw/icecast.audio",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "The Prog Rock Machine",
+   "url": "https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b",
+   "ulke": "Avustralya"
+  },
+  {
+   "ad": "Gold 104.3",
+   "url": "https://ais-arn.streamguys1.com/au_004_icy",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Fresh 92.7",
+   "url": "https://live.fresh927.com.au/freshaac",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "SBS Chill",
+   "url": "http://sbs-ice.streamguys1.com/sbschill",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "DiscoRhythm",
+   "url": "http://c3.radioboss.fm:8018/stream",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Sky News Australia Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Smooth FM 95.3",
+   "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac?src=neweb",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Triple J",
+   "url": "http://abc.streamguys1.com/live/triplejnsw/icecast.audio",
+   "ulke": "Avustralya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Austrian Rock Radio",
+   "url": "http://live.antenne.at/arr",
+   "ulke": "Avusturya"
+  },
+  {
+   "ad": "ORF Radio Wien",
+   "url": "http://orf-live.ors-shoutcast.at/wie-q1a",
+   "ulke": "Avusturya",
+   "dil": "İngilizce, Almanca, Slovenian"
+  },
+  {
+   "ad": "KroneHit Digital",
+   "url": "http://onair-ha1.krone.at/kronehit1058.mp3",
+   "ulke": "Avusturya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "FM4 | ORF",
+   "url": "https://orf-live.ors-shoutcast.at/fm4-q1a",
+   "ulke": "Avusturya",
+   "dil": "İngilizce, Almanca"
+  },
+  {
+   "ad": "KroneHit Radio",
+   "url": "http://onair-ha1.krone.at/kronehit64.aac",
+   "ulke": "Avusturya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "ORF Hitradio Ö3 | HQ",
+   "url": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+   "ulke": "Avusturya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "88.6 Hard Rock",
+   "url": "http://radio886.at/streams/88.6_Hard_Rock/mp3",
+   "ulke": "Avusturya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "FM4 | ORF | HQ",
+   "url": "https://orf-live.ors-shoutcast.at/fm4-q2a",
+   "ulke": "Avusturya",
+   "dil": "İngilizce, Almanca"
+  },
+  {
+   "ad": "Radino - Mein Kinderradio Wien 103,2",
+   "url": "http://stream01.zogl.net:8906/stream",
+   "ulke": "Avusturya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "Antenne Steiermark",
+   "url": "http://live.antenne.at/as",
+   "ulke": "Avusturya",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "Araz fm 103.3",
+   "url": "http://s39.myradiostream.com/5458/listen.mp3",
+   "ulke": "Azerbaycan"
+  },
+  {
+   "ad": "Asan Radio",
+   "url": "http://94.20.74.206:4448/stream1",
+   "ulke": "Azerbaycan",
+   "dil": "Azerice"
+  },
+  {
+   "ad": "AutoLife Radio Azerbaijan",
+   "url": "http://radio.autoliferadio.com:8090/radio",
+   "ulke": "Azerbaycan",
+   "dil": "Azerice, İngilizce, Rusça, Türkçe"
+  },
+  {
+   "ad": "Yurd FM",
+   "url": "https://icecast.livetv.az/yurdfm",
+   "ulke": "Azerbaycan",
+   "dil": "Azerice"
+  },
+  {
+   "ad": "Anti Radio",
+   "url": "https://stream.antiradio.net/radio/8000/mp3",
+   "ulke": "Azerbaycan"
+  },
+  {
+   "ad": "Xezer FM",
+   "url": "https://s40.myradiostream.com/:22546/listen.mp3?",
+   "ulke": "Azerbaycan",
+   "dil": "Azerice, Rusça"
+  },
+  {
+   "ad": "AVTO FM",
+   "url": "http://5.191.241.101:8000/avtofm",
+   "ulke": "Azerbaycan",
+   "dil": "Azerice"
+  },
+  {
+   "ad": "Media Fm 105.5",
+   "url": "https://icecast.livetv.az/mediafm",
+   "ulke": "Azerbaycan",
+   "dil": "Azerice"
+  },
+  {
+   "ad": "RTBF La Première",
+   "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+   "ulke": "Belçika",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "RTBF Classic 21",
+   "url": "https://radios.rtbf.be/classic21-128.mp3",
+   "ulke": "Belçika",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "VRT Radio 1",
+   "url": "http://icecast.vrtcdn.be/radio1-high.mp3",
+   "ulke": "Belçika",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Bel RTL",
+   "url": "http://belrtl.ice.infomaniak.ch/belrtl-mp3-192.mp3",
+   "ulke": "Belçika",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "Tomorrowland One World Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
+   "ulke": "Belçika",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Fun Radio",
+   "url": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+   "ulke": "Belçika",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "Nostalgie 80's",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3",
+   "ulke": "Belçika"
+  },
+  {
+   "ad": "Klara",
+   "url": "http://icecast.vrtcdn.be/klara-high.mp3",
+   "ulke": "Belçika",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "MNM Hits",
+   "url": "http://icecast.vrtcdn.be/mnm_hits-high.mp3",
+   "ulke": "Belçika",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "MNM",
+   "url": "http://icecast.vrtcdn.be/mnm-high.mp3",
+   "ulke": "Belçika",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Instrumentals Forever",
+   "url": "http://quincy.torontocast.com:1910/stream",
+   "ulke": "Belçika",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "NRJ België",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser",
+   "ulke": "Belçika",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Classic FM UK",
+   "url": "http://ice-the.musicradio.com/ClassicFMMP3",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "LBC Radio",
+   "url": "http://media-sov.musicradio.com/LBC973MP3Low",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Radio Caroline",
+   "url": "http://78.129.202.200:8040/;",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Capital FM London",
+   "url": "http://media-ice.musicradio.com/CapitalMP3",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Heart 80s",
+   "url": "https://media-ssl.musicradio.com/Heart80sMP3",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Heart London 106.2 [MP3]",
+   "url": "http://ice-sov.musicradio.com/HeartLondonMP3",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "LBC UK",
+   "url": "http://media-ice.musicradio.com/LBCUK",
+   "ulke": "Birleşik Krallık"
+  },
+  {
+   "ad": "Smooth Radio",
+   "url": "http://media-the.musicradio.com/SmoothEastMids",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "TMM 1",
+   "url": "https://listen-msmn.sharp-stream.com/nme1.mp3",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "LBC London (National stream)",
+   "url": "http://media-ice.musicradio.com/LBCUKMP3Low",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Gold",
+   "url": "https://media-ssl.musicradio.com/GoldMP3",
+   "ulke": "Birleşik Krallık",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Energy NRJ Bulgaria",
+   "url": "http://play.global.audio/nrj128",
+   "ulke": "Bulgaristan",
+   "dil": "Bulgarca"
+  },
+  {
+   "ad": "BG Radio",
+   "url": "http://stream.radioreklama.bg/bgradio128",
+   "ulke": "Bulgaristan",
+   "dil": "Bulgarca"
+  },
+  {
+   "ad": "Radio 1 радио 1 класическите хитове",
+   "url": "http://stream.radioreklama.bg/radio164",
+   "ulke": "Bulgaristan",
+   "dil": "Bulgarca"
+  },
+  {
+   "ad": "BG Estrada",
+   "url": "https://play.global.audio/bgestrada",
+   "ulke": "Bulgaristan",
+   "dil": "Bulgarca"
+  },
+  {
+   "ad": "Nova News",
+   "url": "http://stream.radioreklama.bg/novanews.aac",
+   "ulke": "Bulgaristan",
+   "dil": "Bulgarca"
+  },
+  {
+   "ad": "Fresh!",
+   "url": "http://193.108.24.21:8000/fresh",
+   "ulke": "Bulgaristan",
+   "dil": "Bulgarca"
+  },
+  {
+   "ad": "France Info",
+   "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3",
+   "ulke": "Fransa"
+  },
+  {
+   "ad": "RFI Afrique",
+   "url": "http://live02.rfi.fr/rfiafrique-64.mp3",
+   "ulke": "Fransa",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "RMC FR",
+   "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+   "ulke": "Fransa",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "Jazz Radio Blues",
+   "url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+   "ulke": "Fransa",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "France Inter",
+   "url": "http://direct.franceinter.fr/live/franceinter-hifi.aac",
+   "ulke": "Fransa",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "RFI Monde",
+   "url": "http://live02.rfi.fr/rfimonde-64.mp3",
+   "ulke": "Fransa",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "France Culture",
+   "url": "http://icecast.radiofrance.fr/franceculture-hifi.aac",
+   "ulke": "Fransa",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "Skyrock",
+   "url": "http://icecast.skyrock.net/s/natio_mp3_128k",
+   "ulke": "Fransa",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "Jazz Radio",
+   "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+   "ulke": "Fransa",
+   "dil": "Fransızca"
+  },
+  {
+   "ad": "Intense Radio - We love Dance 256K",
+   "url": "https://secure.live-streams.nl/main",
+   "ulke": "Hollanda",
+   "dil": "Belarusian, Felemenkçe, İngilizce"
+  },
+  {
+   "ad": "NPO Radio 1",
+   "url": "http://icecast.omroep.nl/radio1-bb-mp3",
+   "ulke": "Hollanda",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "NPO Radio 2",
+   "url": "http://icecast.omroep.nl/radio2-bb-mp3",
+   "ulke": "Hollanda",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Arrow Classic Rock",
+   "url": "http://stream.gal.io/arrow",
+   "ulke": "Hollanda",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Radio 10",
+   "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+   "ulke": "Hollanda",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Hi On Line Lounge Radio",
+   "url": "http://mediaserv33.live-streams.nl:8036/live",
+   "ulke": "Hollanda"
+  },
+  {
+   "ad": "NPO Radio 5",
+   "url": "https://icecast.omroep.nl/radio5-bb-mp3",
+   "ulke": "Hollanda",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Sky Radio 80's Hits",
+   "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
+   "ulke": "Hollanda",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Concertzender Baroque",
+   "url": "http://streams.greenhost.nl:8080/barok",
+   "ulke": "Hollanda",
+   "dil": "Felemenkçe, İngilizce"
+  },
+  {
+   "ad": "SLAM!",
+   "url": "http://stream.slam.nl/slam",
+   "ulke": "Hollanda",
+   "dil": "Felemenkçe"
+  },
+  {
+   "ad": "Qmusic",
+   "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+   "ulke": "Hollanda"
+  },
+  {
+   "ad": "radio maria iraq",
+   "url": "http://dreamsiteradiocp4.com:8046/stream",
+   "ulke": "Irak"
+  },
+  {
+   "ad": "SumerFm Iraq",
+   "url": "https://l3.itworkscdn.net/itwaudio/9012/stream",
+   "ulke": "Irak",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Alseraj Radio Quran",
+   "url": "http://192.99.170.8:5550/stream",
+   "ulke": "Irak",
+   "dil": "Arapça"
+  },
+  {
+   "ad": ". القارئ محمد أيوب",
+   "url": "https://qurango.net/radio/mohammed_ayyub",
+   "ulke": "Irak"
+  },
+  {
+   "ad": "Al-bilad Radio/Yaqoubi",
+   "url": "https://streamer.radio.co/sb38bf6e66/listen",
+   "ulke": "Irak",
+   "dil": "Arapça, Farsça"
+  },
+  {
+   "ad": "Darusalam Radio",
+   "url": "https://streams.radio.co/s0975ec186/listen",
+   "ulke": "Irak",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Alseraj Radio Islam",
+   "url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
+   "ulke": "Irak",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "راديو الغد، alghad FM",
+   "url": "http://s10.voscast.com:9410/",
+   "ulke": "Irak",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Al rasheed fm",
+   "url": "https://streaming.shoutcast.com/alrasheed-fm?1719771692024",
+   "ulke": "Irak"
+  },
+  {
+   "ad": "Kurdistan 24",
+   "url": "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+   "ulke": "Irak"
+  },
+  {
+   "ad": "ChroniX Radio Metalcore",
+   "url": "http://usa17.fastcast4u.com:5508/stream",
+   "ulke": "Kanada",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "REGGAE CHILL CAFE",
+   "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
+   "ulke": "Kanada",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "CFRB News/Talk 1010 (Toronto, ON)",
+   "url": "http://29324.live.streamtheworld.com/CFRBAMAAC_SC",
+   "ulke": "Kanada",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "# RdMix Classic Rock 70s 80s 90s",
+   "url": "https://cast1.torontocast.com:4610/stream",
+   "ulke": "Kanada",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Labgate - Progressive Rock",
+   "url": "https://s2.ssl-stream.com/radio/8180/radio.mp3",
+   "ulke": "Kanada"
+  },
+  {
+   "ad": "100 GREATEST OF THE 80'S",
+   "url": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
+   "ulke": "Kanada"
+  },
+  {
+   "ad": "70 80 90 Vibrazioni Rock Radio",
+   "url": "https://maggie.torontocast.com:2020/stream/vibrazionirockradio",
+   "ulke": "Kanada",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "CTV News Audio Channel",
+   "url": "http://29324.live.streamtheworld.com/TV_CTV_NEWSAAC_SC",
+   "ulke": "Kanada",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Nature Radio Rain",
+   "url": "https://maggie.torontocast.com:2020/stream/natureradiorain",
+   "ulke": "Kanada",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Ancient FM",
+   "url": "https://mediaserv73.live-streams.nl:18058/stream",
+   "ulke": "Kanada",
+   "dil": "İngilizce, Fransızca"
+  },
+  {
+   "ad": "Radio 90s Eurodance",
+   "url": "https://listen1.myradio24.com/5967",
+   "ulke": "Kazakistan"
+  },
+  {
+   "ad": "Waar Radio",
+   "url": "http://streaming.radionomy.com/JamendoLounge",
+   "ulke": "Kazakistan",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Zhulduz Radio",
+   "url": "http://91.201.214.229:8000/zhulduz",
+   "ulke": "Kazakistan",
+   "dil": "Kazakça, Rusça"
+  },
+  {
+   "ad": "Qazaq radiosy",
+   "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+   "ulke": "Kazakistan",
+   "dil": "Kazakça"
+  },
+  {
+   "ad": "Shalqar",
+   "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+   "ulke": "Kazakistan",
+   "dil": "Kazakça"
+  },
+  {
+   "ad": "Avtoradio",
+   "url": "http://178.88.167.62:8080/AVTORADIO_192",
+   "ulke": "Kazakistan",
+   "dil": "Kazakça, Rusça"
+  },
+  {
+   "ad": "Народное Радио",
+   "url": "http://178.88.167.62:8080/DALA_192",
+   "ulke": "Kazakistan",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "Aspan FM",
+   "url": "http://77.240.38.228:8000/aspanfm",
+   "ulke": "Kazakistan",
+   "dil": "Kazakça"
+  },
+  {
+   "ad": "Radio Nostalgie (Kazakhstan)",
+   "url": "https://listen7.myradio24.com/alexx333",
+   "ulke": "Kazakistan",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "ЖАНА FM",
+   "url": "https://live.zhanafm.kz:8443/zhanafm_onair",
+   "ulke": "Kazakistan",
+   "dil": "Kazakça, Rusça"
+  },
+  {
+   "ad": "Kiss fm Cyprus 89.0",
+   "url": "http://r1.phileradio.com:8193/89FM",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Diesi Cyprus 101.1",
+   "url": "http://r1.cloudskep.com/radio/diesi/icecast.audio",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Kanali6 (106.00 | 98.6 | 107.00 | 106.9) Lemesos Cyprus Alternative Stream",
+   "url": "http://live3.istoikona.net:8372/stream/2/Title1=Kanali",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Trito Live",
+   "url": "http://r1.cloudskep.com/cybcr/cybc3/icecast.audio",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Zucca Radio",
+   "url": "http://95.217.120.122/",
+   "ulke": "Kıbrıs"
+  },
+  {
+   "ad": "Super Sport FM 104.0",
+   "url": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "SUPER FM 104.8",
+   "url": "http://eco.onestreaming.com:8175/",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Proto Live",
+   "url": "http://r1.cloudskep.com/cybcr/cybc1/icecast.audio",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Rock FM Cyprus",
+   "url": "http://live3.istoikona.net:8278/;",
+   "ulke": "Kıbrıs"
+  },
+  {
+   "ad": "塞浦路斯中文广播",
+   "url": "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio",
+   "ulke": "Kıbrıs",
+   "dil": "Chinese"
+  },
+  {
+   "ad": "Sport FM Cyprus",
+   "url": "http://sportfm-cyprus.live24.gr/sportfm-cyprus",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Ράδιο Άγιος Δημήτριος Ακροπόλεως - Κύπρος 93.3",
+   "url": "http://eco.onestreaming.com:8474/",
+   "ulke": "Kıbrıs",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "إذاعة القرآن الكريم من القاهرة",
+   "url": "http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5",
+   "ulke": "Mısır",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Radio 9090 90.9",
+   "url": "http://9090streaming.mobtada.com/9090FMEGYPT",
+   "ulke": "Mısır",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "إذاعة محمود خليل الحصري",
+   "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+   "ulke": "Mısır",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "On sports FM",
+   "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
+   "ulke": "Mısır"
+  },
+  {
+   "ad": "إذاعة مشاري العفاسي",
+   "url": "https://qurango.net/radio/mishary_alafasi",
+   "ulke": "Mısır",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Tes3enat FM",
+   "url": "http://178.33.135.244:20095/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8",
+   "ulke": "Mısır"
+  },
+  {
+   "ad": "إذاعة مصطفى إسماعيل",
+   "url": "https://qurango.net/radio/mustafa_ismail",
+   "ulke": "Mısır",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Amr Diab Radio",
+   "url": "https://stream-40.zeno.fm/xa4yhh4k838uv?zs=gojgaFRaRrK1wgGIwdv6xA",
+   "ulke": "Mısır"
+  },
+  {
+   "ad": "---تراتيل قصيرة متميزة---",
+   "url": "https://qurango.net/radio/tarateel",
+   "ulke": "Mısır",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "إذاعة ياسر الدوسري",
+   "url": "https://qurango.net/radio/yasser_aldosari",
+   "ulke": "Mısır",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "القران الكريم من القاهره",
+   "url": "http://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&amp;rj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&amp;autoplay=1%22%20type=%22audio/mpeg",
+   "ulke": "Mısır"
+  },
+  {
+   "ad": "Radio القارئ علي حجاج السويسي",
+   "url": "http://live.mp3quran.net:9842/",
+   "ulke": "Mısır",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Europa Plus",
+   "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "ROCK FM",
+   "url": "http://nashe1.hostingradio.ru/rock-128.mp3",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "РАДИО ВАНЯ",
+   "url": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "DFM Дискач 90-х",
+   "url": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "Вести ФМ (Vesti FM)",
+   "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "Ретро FM",
+   "url": "http://retroserver.streamr.ru:8043/retro256.mp3",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "Дорожное радио",
+   "url": "http://dorognoe.hostingradio.ru:8000/radio",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "Радио Русские Песни",
+   "url": "http://listen.rusongs.ru/ru-mp3-128",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "DFM RUSSIAN DANCE",
+   "url": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "Шансон Радио",
+   "url": "http://chanson.hostingradio.ru:8041/chanson128.mp3",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "дорожное радио (Dorognoe Radio)",
+   "url": "http://dorognoe.hostingradio.ru:8000/dorognoe",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "Вести FM",
+   "url": "http://icecast.vgtrk.cdnvideo.ru/vestifm",
+   "ulke": "Rusya",
+   "dil": "Rusça"
+  },
+  {
+   "ad": "BBC World Service",
+   "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+   "ulke": "Suudi Arabistan",
+   "dil": "Arapça, İngilizce"
+  },
+  {
+   "ad": "إذاعة السنة",
+   "url": "http://andromeda.shoutca.st:8189/live",
+   "ulke": "Suudi Arabistan",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Mp3Quran Main",
+   "url": "https://qurango.net/radio/mix",
+   "ulke": "Suudi Arabistan",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "AlifAlif FM",
+   "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+   "ulke": "Suudi Arabistan",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "RadioSunna",
+   "url": "http://andromeda.shoutca.st:8189/stream",
+   "ulke": "Suudi Arabistan",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "القارئ علي الحذيفي رواية قالون",
+   "url": "https://qurango.net/radio/ali_alhuthaifi_qalon",
+   "ulke": "Suudi Arabistan"
+  },
+  {
+   "ad": ". مختصر السيرة",
+   "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
+   "ulke": "Suudi Arabistan"
+  },
+  {
+   "ad": ".صور من حياة الصحابة",
+   "url": "https://qurango.net/radio/sahabah",
+   "ulke": "Suudi Arabistan"
+  },
+  {
+   "ad": "Saudi Quran1",
+   "url": "http://n01.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjrUiYUAAxwNU2wDdcOap9w",
+   "ulke": "Suudi Arabistan",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Fred Film Radio(لغة عربية)",
+   "url": "https://s10.webradio-hosting.com/proxy/fredradioar/stream",
+   "ulke": "Suudi Arabistan",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "إذاعة القرآن الكريم (مكة المكرمة)",
+   "url": "https://edge.mixlr.com/channel/rwumx",
+   "ulke": "Suudi Arabistan",
+   "dil": "Arapça"
+  },
+  {
+   "ad": "Blues Radio",
+   "url": "http://cast3.radiohost.ovh:8352/",
+   "ulke": "Yunanistan",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "KISS FM 100.6",
+   "url": "http://live.radiokiss.gr/kissfm1006hq.mp3",
+   "ulke": "Yunanistan",
+   "dil": "İngilizce, Yunanca"
+  },
+  {
+   "ad": "Real FM 97.8",
+   "url": "http://netradio.live24.gr/realfm",
+   "ulke": "Yunanistan",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Trance Athena",
+   "url": "http://cast.streams.ovh:8008/stream",
+   "ulke": "Yunanistan",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Sport FM 94.6",
+   "url": "http://netradio.live24.gr/sportfm7712",
+   "ulke": "Yunanistan",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Kiss 92.9",
+   "url": "http://netradio.live24.gr/kissfmathens",
+   "ulke": "Yunanistan",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Skai 100.3",
+   "url": "http://netradio.live24.gr/skai1003",
+   "ulke": "Yunanistan",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Zeppelin 106.7",
+   "url": "https://radiostreaming.ert.gr/ert-zeppelin",
+   "ulke": "Yunanistan",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Sfera 102.2",
+   "url": "http://sfera.live24.gr/sfera4132",
+   "ulke": "Yunanistan",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Παραπολιτικά FM 90.1",
+   "url": "http://netradio.live24.gr/athinaradio",
+   "ulke": "Yunanistan",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Ellinikos 93.2",
+   "url": "http://netradio.live24.gr/orange9320",
+   "ulke": "Yunanistan",
+   "dil": "Yunanca"
+  },
+  {
+   "ad": "Psyndora Psytrance",
+   "url": "http://cast.magicstreams.gr:9111/stream",
+   "ulke": "Yunanistan",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "ایران‎  Radio Liberty (Iran) (official stream)",
+   "url": "https://stream.radiojar.com/cp13r2cpn3quv",
+   "ulke": "İran",
+   "dil": "Irani, Iranian"
+  },
+  {
+   "ad": "parsa",
+   "url": "http://parsa.icdndhcp.com:18000/stream",
+   "ulke": "İran"
+  },
+  {
+   "ad": "Faz",
+   "url": "http://www.radiofaaz.com:8000/radiofaaz",
+   "ulke": "İran"
+  },
+  {
+   "ad": "Iran On Air",
+   "url": "http://ice41.securenetsystems.net/KIRN",
+   "ulke": "İran",
+   "dil": "Farsça"
+  },
+  {
+   "ad": "Radio Navahang",
+   "url": "https://navairan.com/;stream.nsv",
+   "ulke": "İran",
+   "dil": "Farsça"
+  },
+  {
+   "ad": "Radio Sarcheshme",
+   "url": "http://sarcheshmeh.icdndhcp.com:18452/stream",
+   "ulke": "İran",
+   "dil": "Farsça"
+  },
+  {
+   "ad": "caltexmusic",
+   "url": "http://n13.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABeB5OHJQA07FIiDdZAZNHWw",
+   "ulke": "İran"
+  },
+  {
+   "ad": "Radio Mojdeh",
+   "url": "http://ic2326.c1261.fast-serv.com/rm128",
+   "ulke": "İran",
+   "dil": "Farsça"
+  },
+  {
+   "ad": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
+   "url": "https://ic2326.c1261.fastserv.com/rm128",
+   "ulke": "İran",
+   "dil": "Faroese, Iranian, Farsça"
+  },
+  {
+   "ad": "Cadena 100",
+   "url": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "Ibiza Global Radio",
+   "url": "http://ibizaglobalradio.streaming-pro.com:8024/",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "LOS 40 Principales España",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "Chocolate FM",
+   "url": "http://streaming5.elitecomunicacion.es:8082/live.mp3",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "Cadena SER España",
+   "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "1000 HITS 80s",
+   "url": "http://c2.auracast.net:8048/stream",
+   "ulke": "İspanya",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Rock FM",
+   "url": "http://flucast06-o-cloud.flumotion.com/cope/rockfm-low.mp3",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "_80 EXITOS",
+   "url": "https://80sexitos.stream.laut.fm/80sexitos",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "Los 40 Urban",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "Los 40 Dance",
+   "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "esRadio",
+   "url": "http://livestreaming.esradio.fm/stream64.mp3",
+   "ulke": "İspanya",
+   "dil": "İspanyolca"
+  },
+  {
+   "ad": "Pure Ibiza Radio",
+   "url": "https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio",
+   "ulke": "İspanya",
+   "dil": "İngilizce, İspanyolca"
+  },
+  {
+   "ad": "Country Rocks Radio",
+   "url": "http://stream.dbmedia.se/crr96",
+   "ulke": "İsveç",
+   "dil": "İsveççe"
+  },
+  {
+   "ad": "Pirate Rock  Västkustens bästa rock",
+   "url": "http://stream.piraterock.se:8101/webradio",
+   "ulke": "İsveç",
+   "dil": "İsveççe"
+  },
+  {
+   "ad": "Retro FM Skåne",
+   "url": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@",
+   "ulke": "İsveç",
+   "dil": "İsveççe"
+  },
+  {
+   "ad": "Guldkanalen Helsingborg",
+   "url": "http://stream.dbmedia.se/gkhbg96",
+   "ulke": "İsveç",
+   "dil": "İsveççe"
+  },
+  {
+   "ad": "Radio Swiss Jazz",
+   "url": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+   "ulke": "İsviçre"
+  },
+  {
+   "ad": "1.FM - Deep House Radio",
+   "url": "http://strm112.1.fm/deephouse_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "1.FM - Amsterdam Trance Radio",
+   "url": "http://strm112.1.fm/atr_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "1.FM - Classic Rock Replay Radio",
+   "url": "http://strm112.1.fm/crock_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "1.FM - Absolute Country Hits Radio",
+   "url": "http://strm112.1.fm/acountry_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "1.FM - Classic Country Radio",
+   "url": "http://strm112.1.fm/ccountry_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "1.FM - Chillout Lounge Radio",
+   "url": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "1.FM - Blues Radio",
+   "url": "http://strm112.1.fm/blues_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Radio Swiss Classic German",
+   "url": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+   "ulke": "İsviçre",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "1.FM - Cafe Radio",
+   "url": "http://strm112.1.fm/caferadio_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "1.FM - Rock Classics Radio",
+   "url": "http://strm112.1.fm/rockclassics_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "1.FM - Bombay Beats India Radio",
+   "url": "http://strm112.1.fm/bombaybeats_mobile_mp3",
+   "ulke": "İsviçre",
+   "dil": "İngilizce"
+  },
+  {
+   "ad": "Rai Radio 1",
+   "url": "http://icestreaming.rai.it/1.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Virgin Radio Classic Rock",
+   "url": "http://icy.unitedradio.it/VirginRockClassics.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Radio 24 il sole 24 ore",
+   "url": "http://shoutcast2.radio24.it:8000/;",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Radio 105 Network",
+   "url": "http://icecast.unitedradio.it/Radio105.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Rai Radio 2",
+   "url": "http://icestreaming.rai.it/2.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Radio Stereocittà",
+   "url": "http://onair11.xdevel.com:8134/;stream.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Rai Radio 3",
+   "url": "http://icestreaming.rai.it/3.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "RMC Radio Monte Carlo",
+   "url": "http://icecast.unitedradio.it/RMC.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Virgin Radio Italia",
+   "url": "http://icecast.unitedradio.it/Virgin.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Radio 105 - Dance 90",
+   "url": "http://icy.unitedradio.it/105Dance90.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
+  },
+  {
+   "ad": "Radio 80",
+   "url": "http://str01.fluidstream.net:7020/;stream.mp3",
+   "ulke": "İtalya",
+   "dil": "İtalyanca"
   }
  ]
 }
