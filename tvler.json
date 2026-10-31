@@ -1,5 +1,5 @@
 {
- "surum": 5,
+ "surum": 6,
  "guncelleme": "2026-10-31",
  "radyolar": [
   {
@@ -55,6 +55,15 @@
    "dil": "Türkçe",
    "frekans": "720p",
    "tur": "Genel"
+  },
+  {
+   "ad": "Al-Zahra TV Türk",
+   "url": "https://live.al-zahratv.com/live/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "480p",
+   "tur": "Dini"
   },
   {
    "ad": "Alanya Posta TV",
@@ -162,6 +171,24 @@
    "dil": "Türkçe",
    "frekans": "720p",
    "tur": "Haber"
+  },
+  {
+   "ad": "Diyanet TV",
+   "url": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "540p",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Dost TV",
+   "url": "https://dost.stream.emsal.im/tv/live.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "576p",
+   "tur": "Dini"
   },
   {
    "ad": "Dream Turk",
@@ -333,6 +360,15 @@
    "tur": "Genel"
   },
   {
+   "ad": "İkra TV",
+   "url": "https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "720p",
+   "tur": "Dini"
+  },
+  {
    "ad": "Kanal 12",
    "url": "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
    "ulke": "Türkiye",
@@ -477,6 +513,15 @@
    "tur": "Müzik"
   },
   {
+   "ad": "Lalegül TV",
+   "url": "https://lbl.netmedya.net/hls/lalegultv.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "720p",
+   "tur": "Dini"
+  },
+  {
    "ad": "Life TV",
    "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
    "ulke": "Türkiye",
@@ -484,6 +529,15 @@
    "dil": "Türkçe",
    "frekans": "1080p",
    "tur": "Haber"
+  },
+  {
+   "ad": "Luys TV",
+   "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "540p",
+   "tur": "Dini"
   },
   {
    "ad": "MaviKaradeniz TV",
@@ -501,6 +555,24 @@
    "kod": "tr",
    "dil": "Türkçe",
    "frekans": "720p"
+  },
+  {
+   "ad": "Medine TV",
+   "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-avc1_600000=2-mp4a_145600_ara=3.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "360p",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Mekke TV",
+   "url": "https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "1080p",
+   "tur": "Dini"
   },
   {
    "ad": "Meltem TV",
@@ -536,6 +608,15 @@
    "dil": "Türkçe",
    "frekans": "360p",
    "tur": "Çocuk"
+  },
+  {
+   "ad": "Mukabele TV",
+   "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "720p",
+   "tur": "Dini"
   },
   {
    "ad": "NOW",
@@ -662,6 +743,15 @@
    "frekans": "1080p"
   },
   {
+   "ad": "Rehber TV",
+   "url": "https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "720p",
+   "tur": "Dini"
+  },
+  {
    "ad": "Rize Türk",
    "url": "https://yayin.rizeturk.com:3777/hybrid/play.m3u8",
    "ulke": "Türkiye",
@@ -669,6 +759,24 @@
    "dil": "Türkçe",
    "frekans": "720p",
    "tur": "Eğlence"
+  },
+  {
+   "ad": "Sat 7 Türk",
+   "url": "https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "720p",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Semerkand TV",
+   "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "540p",
+   "tur": "Dini"
   },
   {
    "ad": "Sercem TV",
@@ -945,15 +1053,6 @@
    "tur": "Genel"
   },
   {
-   "ad": "Ülke TV",
-   "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
-   "ulke": "Türkiye",
-   "kod": "tr",
-   "dil": "Türkçe",
-   "frekans": "720p",
-   "tur": "Haber"
-  },
-  {
    "ad": "Urfa Natik TV",
    "url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
    "ulke": "Türkiye",
@@ -971,6 +1070,24 @@
    "tur": "Genel"
   },
   {
+   "ad": "Vav TV",
+   "url": "https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "720p",
+   "tur": "Dini"
+  },
+  {
+   "ad": "Vuslat TV",
+   "url": "https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "720p",
+   "tur": "Dini"
+  },
+  {
    "ad": "YOL TV",
    "url": "https://live.yoltv.com/hls/stream.m3u8",
    "ulke": "Türkiye",
@@ -986,6 +1103,15 @@
    "kod": "tr",
    "dil": "Türkçe",
    "frekans": "1080p"
+  },
+  {
+   "ad": "Ülke TV",
+   "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8",
+   "ulke": "Türkiye",
+   "kod": "tr",
+   "dil": "Türkçe",
+   "frekans": "720p",
+   "tur": "Haber"
   },
   {
    "ad": "AccuWeather NOW",
@@ -1112,6 +1238,24 @@
    "frekans": "360p",
    "dil": "Almanca",
    "tur": "Yaşam"
+  },
+  {
+   "ad": "Bibel TV Impuls",
+   "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
+   "ulke": "Almanya",
+   "kod": "de",
+   "frekans": "1080p",
+   "tur": "Dini",
+   "dil": "Almanca"
+  },
+  {
+   "ad": "Bibel TV Musik",
+   "url": "https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8",
+   "ulke": "Almanya",
+   "kod": "de",
+   "frekans": "1080p",
+   "tur": "Dini",
+   "dil": "Almanca"
   },
   {
    "ad": "Cira TV",
@@ -1392,6 +1536,15 @@
    "frekans": "720p",
    "dil": "Arnavutça",
    "tur": "Genel"
+  },
+  {
+   "ad": "TV Johaniter",
+   "url": "https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8",
+   "ulke": "Arnavutluk",
+   "kod": "al",
+   "frekans": "720p",
+   "tur": "Dini",
+   "dil": "Arnavutça"
   },
   {
    "ad": "Zjarr TV",
@@ -2331,6 +2484,15 @@
    "tur": "Genel"
   },
   {
+   "ad": "Alghadeer TV",
+   "url": "https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8",
+   "ulke": "Irak",
+   "kod": "iq",
+   "frekans": "1080p",
+   "tur": "Dini",
+   "dil": "Arapça"
+  },
+  {
    "ad": "Avar TV",
    "url": "https://avr.host247.net/live/AvarTv/playlist.m3u8",
    "ulke": "Irak",
@@ -2390,6 +2552,15 @@
    "frekans": "1080p",
    "dil": "Arapça",
    "tur": "Aile"
+  },
+  {
+   "ad": "Payam TV",
+   "url": "https://hlspackager.akamaized.net/live/DB/PAYAM_TV/HLS/PAYAM_TV.m3u8",
+   "ulke": "Irak",
+   "kod": "iq",
+   "frekans": "576p",
+   "tur": "Dini",
+   "dil": "Arapça"
   },
   {
    "ad": "Rudaw TV",
@@ -3619,6 +3790,15 @@
    "frekans": "720p",
    "dil": "Yunanca",
    "tur": "Haber"
+  },
+  {
+   "ad": "Ecclesia TV",
+   "url": "https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8",
+   "ulke": "Yunanistan",
+   "kod": "gr",
+   "frekans": "1080p",
+   "tur": "Dini",
+   "dil": "Yunanca"
   },
   {
    "ad": "Ellinikos FM",
